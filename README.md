@@ -1,5 +1,10 @@
 # Projeto de Análise de Dados de Criptomoedas
 
+## Alunos:
+### Gabriel dos Santos Silva
+### Marcelo Barros de Azevedo Vieira
+### Murilo Vieira Aguiar
+
 Este projeto implementa um sistema de previsão do preço de fechamento de criptomoedas utilizando modelos de
 aprendizado de máquina, com foco principal no MLPRegressor. Ele também compara esse modelo com regrssão linear
 e polinomial (grau 2 a 10), incluindo simulações de lucro com reinvestimento diário.

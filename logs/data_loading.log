@@ -1,0 +1,900 @@
+[2025-07-11 23:48:46,245] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-11 23:48:46,257] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-11 23:48:46,274] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-11 23:48:46,290] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-11 23:48:46,304] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-11 23:48:46,311] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-11 23:48:46,327] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-11 23:48:46,336] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-11 23:48:46,344] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-11 23:48:46,371] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-11 23:49:04,798] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-11 23:49:04,805] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-11 23:49:04,815] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-11 23:49:04,827] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-11 23:49:04,839] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-11 23:49:04,845] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-11 23:49:04,855] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-11 23:49:04,861] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-11 23:49:04,866] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-11 23:49:04,877] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-11 23:49:33,045] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-11 23:49:33,051] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-11 23:49:33,061] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-11 23:49:33,073] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-11 23:49:33,083] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-11 23:49:33,088] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-11 23:49:33,101] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-11 23:49:33,107] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-11 23:49:33,114] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-11 23:49:33,127] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-11 23:49:37,591] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-11 23:49:37,598] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-11 23:49:37,606] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-11 23:49:37,617] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-11 23:49:37,625] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-11 23:49:37,631] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-11 23:49:37,641] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-11 23:49:37,648] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-11 23:49:37,654] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-11 23:49:37,661] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 01:15:44,870] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 01:15:44,876] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 01:15:44,908] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 01:15:44,932] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 01:15:44,943] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 01:15:44,951] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 01:15:44,973] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 01:15:44,980] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 01:15:44,986] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 01:15:45,004] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 01:20:07,576] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 01:20:07,583] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 01:20:07,593] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 01:20:07,604] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 01:20:07,615] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 01:20:07,622] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 01:20:07,634] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 01:20:07,642] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 01:20:07,648] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 01:20:07,660] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 01:20:34,391] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 01:20:34,397] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 01:20:34,406] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 01:20:34,418] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 01:20:34,429] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 01:20:34,434] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 01:20:34,447] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 01:20:34,453] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 01:20:34,461] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 01:20:34,475] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 01:21:40,468] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 01:21:40,476] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 01:21:40,487] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 01:21:40,500] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 01:21:40,512] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 01:21:40,517] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 01:21:40,528] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 01:21:40,534] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 01:21:40,541] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 01:21:40,553] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 01:28:48,620] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 01:28:48,629] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 01:28:48,640] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 01:28:48,653] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 01:28:48,664] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 01:28:48,672] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 01:28:48,686] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 01:28:48,693] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 01:28:48,701] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 01:28:48,714] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 01:30:40,106] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 01:30:40,114] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 01:30:40,126] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 01:30:40,139] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 01:30:40,151] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 01:30:40,158] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 01:30:40,171] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 01:30:40,179] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 01:30:40,188] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 01:30:40,199] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 01:32:06,143] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 01:32:06,151] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 01:32:06,161] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 01:32:06,172] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 01:32:06,182] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 01:32:06,188] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 01:32:06,199] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 01:32:06,205] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 01:32:06,211] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 01:32:06,223] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 01:32:54,480] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 01:32:54,487] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 01:32:54,498] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 01:32:54,509] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 01:32:54,518] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 01:32:54,525] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 01:32:54,538] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 01:32:54,543] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 01:32:54,548] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 01:32:54,558] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 01:35:12,878] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 01:35:12,884] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 01:35:12,894] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 01:35:12,906] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 01:35:12,916] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 01:35:12,923] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 01:35:12,934] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 01:35:12,940] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 01:35:12,946] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 01:35:12,956] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 01:36:26,012] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 01:36:26,018] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 01:36:26,029] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 01:36:26,039] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 01:36:26,048] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 01:36:26,052] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 01:36:26,062] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 01:36:26,068] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 01:36:26,073] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 01:36:26,082] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 01:38:08,666] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 01:38:08,676] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 01:38:08,698] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 01:38:08,721] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 01:38:08,746] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 01:38:08,760] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 01:38:08,787] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 01:38:08,803] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 01:38:08,816] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 01:38:08,838] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 01:46:56,948] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 01:46:56,956] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 01:46:56,968] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 01:46:56,985] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 01:46:56,997] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 01:46:57,004] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 01:46:57,021] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 01:46:57,029] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 01:46:57,036] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 01:46:57,047] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 01:53:05,242] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 01:53:05,250] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 01:53:05,270] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 01:53:05,293] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 01:53:05,304] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 01:53:05,309] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 01:53:05,338] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 01:53:05,346] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 01:53:05,355] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 01:53:05,370] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 01:55:43,621] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 01:55:43,628] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 01:55:43,653] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 01:55:43,682] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 01:55:43,691] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 01:55:43,696] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 01:55:43,719] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 01:55:43,724] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 01:55:43,729] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 01:55:43,742] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 01:56:13,712] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 01:56:13,718] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 01:56:13,736] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 01:56:13,752] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 01:56:13,760] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 01:56:13,765] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 01:56:13,785] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 01:56:13,790] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 01:56:13,795] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 01:56:13,808] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 01:56:25,987] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 01:56:25,994] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 01:56:26,017] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 01:56:26,042] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 01:56:26,055] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 01:56:26,064] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 01:56:26,083] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 01:56:26,088] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 01:56:26,093] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 01:56:26,105] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 01:57:18,055] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 01:57:18,063] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 01:57:18,074] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 01:57:18,086] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 01:57:18,096] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 01:57:18,102] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 01:57:18,116] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 01:57:18,123] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 01:57:18,129] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 01:57:18,142] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 01:57:31,884] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 01:57:31,892] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 01:57:31,903] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 01:57:31,915] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 01:57:31,926] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 01:57:31,931] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 01:57:31,942] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 01:57:31,948] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 01:57:31,954] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 01:57:31,967] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 02:01:23,557] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 02:01:23,570] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 02:01:23,593] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 02:01:23,617] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 02:01:23,637] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 02:01:23,648] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 02:01:23,670] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 02:01:23,681] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 02:01:23,694] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 02:01:23,716] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 02:21:05,022] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 02:21:05,043] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 02:21:05,057] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 02:21:05,075] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 02:21:05,083] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 02:21:05,091] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 02:21:05,113] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 02:21:05,122] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 02:21:05,133] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 02:21:05,144] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 02:21:05,157] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 02:21:05,164] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 02:21:05,173] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 02:21:05,182] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 02:21:05,190] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 02:21:05,196] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 02:21:05,205] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 02:21:05,211] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 02:21:05,218] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 02:21:05,227] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 02:21:05,230] ERROR: Erro ao carregar ADA de nonexistent_directory/ADA.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ADA.csv'
+[2025-07-12 02:21:05,230] ERROR: Erro ao carregar AVAX de nonexistent_directory/AVAX.csv: [Errno 2] No such file or directory: 'nonexistent_directory/AVAX.csv'
+[2025-07-12 02:21:05,230] ERROR: Erro ao carregar BNB de nonexistent_directory/BNB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BNB.csv'
+[2025-07-12 02:21:05,231] ERROR: Erro ao carregar BTC de nonexistent_directory/BTC.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BTC.csv'
+[2025-07-12 02:21:05,231] ERROR: Erro ao carregar DOGE de nonexistent_directory/DOGE.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOGE.csv'
+[2025-07-12 02:21:05,231] ERROR: Erro ao carregar DOT de nonexistent_directory/DOT.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOT.csv'
+[2025-07-12 02:21:05,232] ERROR: Erro ao carregar ETH de nonexistent_directory/ETH.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ETH.csv'
+[2025-07-12 02:21:05,232] ERROR: Erro ao carregar SHIB de nonexistent_directory/SHIB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SHIB.csv'
+[2025-07-12 02:21:05,232] ERROR: Erro ao carregar SOL de nonexistent_directory/SOL.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SOL.csv'
+[2025-07-12 02:21:05,233] ERROR: Erro ao carregar XRP de nonexistent_directory/XRP.csv: [Errno 2] No such file or directory: 'nonexistent_directory/XRP.csv'
+[2025-07-12 02:21:22,233] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 02:21:22,242] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 02:21:22,250] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 02:21:22,259] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 02:21:22,267] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 02:21:22,274] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 02:21:22,283] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 02:21:22,291] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 02:21:22,299] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 02:21:22,309] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 02:21:22,322] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 02:21:22,329] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 02:21:22,338] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 02:21:22,349] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 02:21:22,358] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 02:21:22,367] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 02:21:22,378] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 02:21:22,384] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 02:21:22,391] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 02:21:22,400] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 02:21:22,405] ERROR: Erro ao carregar ADA de nonexistent_directory/ADA.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ADA.csv'
+[2025-07-12 02:21:22,405] ERROR: Erro ao carregar AVAX de nonexistent_directory/AVAX.csv: [Errno 2] No such file or directory: 'nonexistent_directory/AVAX.csv'
+[2025-07-12 02:21:22,405] ERROR: Erro ao carregar BNB de nonexistent_directory/BNB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BNB.csv'
+[2025-07-12 02:21:22,406] ERROR: Erro ao carregar BTC de nonexistent_directory/BTC.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BTC.csv'
+[2025-07-12 02:21:22,406] ERROR: Erro ao carregar DOGE de nonexistent_directory/DOGE.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOGE.csv'
+[2025-07-12 02:21:22,406] ERROR: Erro ao carregar DOT de nonexistent_directory/DOT.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOT.csv'
+[2025-07-12 02:21:22,406] ERROR: Erro ao carregar ETH de nonexistent_directory/ETH.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ETH.csv'
+[2025-07-12 02:21:22,407] ERROR: Erro ao carregar SHIB de nonexistent_directory/SHIB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SHIB.csv'
+[2025-07-12 02:21:22,407] ERROR: Erro ao carregar SOL de nonexistent_directory/SOL.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SOL.csv'
+[2025-07-12 02:21:22,407] ERROR: Erro ao carregar XRP de nonexistent_directory/XRP.csv: [Errno 2] No such file or directory: 'nonexistent_directory/XRP.csv'
+[2025-07-12 02:21:40,870] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 02:21:40,882] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 02:21:40,896] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 02:21:40,911] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 02:21:40,920] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 02:21:40,929] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 02:21:40,943] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 02:21:40,953] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 02:21:40,960] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 02:21:40,974] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 02:21:40,986] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 02:21:40,993] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 02:21:41,003] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 02:21:41,014] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 02:21:41,023] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 02:21:41,031] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 02:21:41,041] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 02:21:41,054] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 02:21:41,068] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 02:21:41,089] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 02:21:41,097] ERROR: Erro ao carregar ADA de nonexistent_directory/ADA.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ADA.csv'
+[2025-07-12 02:21:41,097] ERROR: Erro ao carregar AVAX de nonexistent_directory/AVAX.csv: [Errno 2] No such file or directory: 'nonexistent_directory/AVAX.csv'
+[2025-07-12 02:21:41,098] ERROR: Erro ao carregar BNB de nonexistent_directory/BNB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BNB.csv'
+[2025-07-12 02:21:41,099] ERROR: Erro ao carregar BTC de nonexistent_directory/BTC.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BTC.csv'
+[2025-07-12 02:21:41,099] ERROR: Erro ao carregar DOGE de nonexistent_directory/DOGE.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOGE.csv'
+[2025-07-12 02:21:41,099] ERROR: Erro ao carregar DOT de nonexistent_directory/DOT.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOT.csv'
+[2025-07-12 02:21:41,101] ERROR: Erro ao carregar ETH de nonexistent_directory/ETH.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ETH.csv'
+[2025-07-12 02:21:41,101] ERROR: Erro ao carregar SHIB de nonexistent_directory/SHIB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SHIB.csv'
+[2025-07-12 02:21:41,102] ERROR: Erro ao carregar SOL de nonexistent_directory/SOL.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SOL.csv'
+[2025-07-12 02:21:41,103] ERROR: Erro ao carregar XRP de nonexistent_directory/XRP.csv: [Errno 2] No such file or directory: 'nonexistent_directory/XRP.csv'
+[2025-07-12 02:25:52,637] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 02:25:52,647] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 02:25:52,665] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 02:25:52,686] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 02:25:52,699] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 02:25:52,707] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 02:25:52,724] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 02:25:52,730] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 02:25:52,736] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 02:25:52,753] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 02:25:52,768] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 02:25:52,775] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 02:25:52,788] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 02:25:52,803] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 02:25:52,816] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 02:25:52,824] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 02:25:52,839] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 02:25:52,848] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 02:25:52,857] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 02:25:52,871] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 02:25:52,876] ERROR: Erro ao carregar ADA de nonexistent_directory/ADA.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ADA.csv'
+[2025-07-12 02:25:52,876] ERROR: Erro ao carregar AVAX de nonexistent_directory/AVAX.csv: [Errno 2] No such file or directory: 'nonexistent_directory/AVAX.csv'
+[2025-07-12 02:25:52,877] ERROR: Erro ao carregar BNB de nonexistent_directory/BNB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BNB.csv'
+[2025-07-12 02:25:52,877] ERROR: Erro ao carregar BTC de nonexistent_directory/BTC.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BTC.csv'
+[2025-07-12 02:25:52,878] ERROR: Erro ao carregar DOGE de nonexistent_directory/DOGE.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOGE.csv'
+[2025-07-12 02:25:52,878] ERROR: Erro ao carregar DOT de nonexistent_directory/DOT.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOT.csv'
+[2025-07-12 02:25:52,879] ERROR: Erro ao carregar ETH de nonexistent_directory/ETH.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ETH.csv'
+[2025-07-12 02:25:52,879] ERROR: Erro ao carregar SHIB de nonexistent_directory/SHIB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SHIB.csv'
+[2025-07-12 02:25:52,879] ERROR: Erro ao carregar SOL de nonexistent_directory/SOL.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SOL.csv'
+[2025-07-12 02:25:52,880] ERROR: Erro ao carregar XRP de nonexistent_directory/XRP.csv: [Errno 2] No such file or directory: 'nonexistent_directory/XRP.csv'
+[2025-07-12 02:30:40,905] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 02:30:40,914] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 02:30:40,925] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 02:30:40,936] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 02:30:40,946] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 02:30:40,954] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 02:30:40,966] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 02:30:40,975] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 02:30:40,984] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 02:30:40,993] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 02:30:41,007] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 02:30:41,014] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 02:30:41,024] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 02:30:41,036] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 02:30:41,045] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 02:30:41,053] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 02:30:41,064] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 02:30:41,072] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 02:30:41,081] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 02:30:41,092] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 02:30:41,096] ERROR: Erro ao carregar ADA de nonexistent_directory/ADA.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ADA.csv'
+[2025-07-12 02:30:41,096] ERROR: Erro ao carregar AVAX de nonexistent_directory/AVAX.csv: [Errno 2] No such file or directory: 'nonexistent_directory/AVAX.csv'
+[2025-07-12 02:30:41,097] ERROR: Erro ao carregar BNB de nonexistent_directory/BNB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BNB.csv'
+[2025-07-12 02:30:41,097] ERROR: Erro ao carregar BTC de nonexistent_directory/BTC.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BTC.csv'
+[2025-07-12 02:30:41,097] ERROR: Erro ao carregar DOGE de nonexistent_directory/DOGE.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOGE.csv'
+[2025-07-12 02:30:41,098] ERROR: Erro ao carregar DOT de nonexistent_directory/DOT.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOT.csv'
+[2025-07-12 02:30:41,098] ERROR: Erro ao carregar ETH de nonexistent_directory/ETH.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ETH.csv'
+[2025-07-12 02:30:41,098] ERROR: Erro ao carregar SHIB de nonexistent_directory/SHIB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SHIB.csv'
+[2025-07-12 02:30:41,099] ERROR: Erro ao carregar SOL de nonexistent_directory/SOL.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SOL.csv'
+[2025-07-12 02:30:41,099] ERROR: Erro ao carregar XRP de nonexistent_directory/XRP.csv: [Errno 2] No such file or directory: 'nonexistent_directory/XRP.csv'
+[2025-07-12 02:32:55,024] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 02:32:55,031] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 02:32:55,041] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 02:32:55,051] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 02:32:55,062] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 02:32:55,068] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 02:32:55,080] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 02:32:55,086] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 02:32:55,092] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 02:32:55,102] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 02:32:55,117] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 02:32:55,123] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 02:32:55,133] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 02:32:55,145] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 02:32:55,155] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 02:32:55,161] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 02:32:55,171] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 02:32:55,178] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 02:32:55,184] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 02:32:55,193] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 02:32:55,196] ERROR: Erro ao carregar ADA de nonexistent_directory/ADA.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ADA.csv'
+[2025-07-12 02:32:55,196] ERROR: Erro ao carregar AVAX de nonexistent_directory/AVAX.csv: [Errno 2] No such file or directory: 'nonexistent_directory/AVAX.csv'
+[2025-07-12 02:32:55,197] ERROR: Erro ao carregar BNB de nonexistent_directory/BNB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BNB.csv'
+[2025-07-12 02:32:55,197] ERROR: Erro ao carregar BTC de nonexistent_directory/BTC.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BTC.csv'
+[2025-07-12 02:32:55,197] ERROR: Erro ao carregar DOGE de nonexistent_directory/DOGE.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOGE.csv'
+[2025-07-12 02:32:55,197] ERROR: Erro ao carregar DOT de nonexistent_directory/DOT.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOT.csv'
+[2025-07-12 02:32:55,198] ERROR: Erro ao carregar ETH de nonexistent_directory/ETH.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ETH.csv'
+[2025-07-12 02:32:55,198] ERROR: Erro ao carregar SHIB de nonexistent_directory/SHIB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SHIB.csv'
+[2025-07-12 02:32:55,198] ERROR: Erro ao carregar SOL de nonexistent_directory/SOL.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SOL.csv'
+[2025-07-12 02:32:55,198] ERROR: Erro ao carregar XRP de nonexistent_directory/XRP.csv: [Errno 2] No such file or directory: 'nonexistent_directory/XRP.csv'
+[2025-07-12 02:37:22,589] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 02:37:22,597] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 02:37:22,607] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 02:37:22,620] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 02:37:22,631] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 02:37:22,638] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 02:37:22,650] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 02:37:22,657] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 02:37:22,664] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 02:37:22,678] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 02:37:22,693] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 02:37:22,702] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 02:37:22,713] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 02:37:22,725] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 02:37:22,735] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 02:37:22,741] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 02:37:22,753] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 02:37:22,761] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 02:37:22,768] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 02:37:22,778] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 02:37:22,781] ERROR: Erro ao carregar ADA de nonexistent_directory/ADA.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ADA.csv'
+[2025-07-12 02:37:22,782] ERROR: Erro ao carregar AVAX de nonexistent_directory/AVAX.csv: [Errno 2] No such file or directory: 'nonexistent_directory/AVAX.csv'
+[2025-07-12 02:37:22,782] ERROR: Erro ao carregar BNB de nonexistent_directory/BNB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BNB.csv'
+[2025-07-12 02:37:22,782] ERROR: Erro ao carregar BTC de nonexistent_directory/BTC.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BTC.csv'
+[2025-07-12 02:37:22,783] ERROR: Erro ao carregar DOGE de nonexistent_directory/DOGE.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOGE.csv'
+[2025-07-12 02:37:22,783] ERROR: Erro ao carregar DOT de nonexistent_directory/DOT.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOT.csv'
+[2025-07-12 02:37:22,783] ERROR: Erro ao carregar ETH de nonexistent_directory/ETH.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ETH.csv'
+[2025-07-12 02:37:22,784] ERROR: Erro ao carregar SHIB de nonexistent_directory/SHIB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SHIB.csv'
+[2025-07-12 02:37:22,784] ERROR: Erro ao carregar SOL de nonexistent_directory/SOL.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SOL.csv'
+[2025-07-12 02:37:22,784] ERROR: Erro ao carregar XRP de nonexistent_directory/XRP.csv: [Errno 2] No such file or directory: 'nonexistent_directory/XRP.csv'
+[2025-07-12 02:39:37,316] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 02:39:37,323] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 02:39:37,335] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 02:39:37,349] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 02:39:37,361] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 02:39:37,368] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 02:39:37,381] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 02:39:37,389] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 02:39:37,397] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 02:39:37,409] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 02:39:37,425] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 02:39:37,432] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 02:39:37,444] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 02:39:37,459] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 02:39:37,471] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 02:39:37,478] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 02:39:37,490] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 02:39:37,498] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 02:39:37,506] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 02:39:37,518] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 02:39:37,521] ERROR: Erro ao carregar ADA de nonexistent_directory/ADA.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ADA.csv'
+[2025-07-12 02:39:37,522] ERROR: Erro ao carregar AVAX de nonexistent_directory/AVAX.csv: [Errno 2] No such file or directory: 'nonexistent_directory/AVAX.csv'
+[2025-07-12 02:39:37,522] ERROR: Erro ao carregar BNB de nonexistent_directory/BNB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BNB.csv'
+[2025-07-12 02:39:37,522] ERROR: Erro ao carregar BTC de nonexistent_directory/BTC.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BTC.csv'
+[2025-07-12 02:39:37,523] ERROR: Erro ao carregar DOGE de nonexistent_directory/DOGE.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOGE.csv'
+[2025-07-12 02:39:37,523] ERROR: Erro ao carregar DOT de nonexistent_directory/DOT.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOT.csv'
+[2025-07-12 02:39:37,524] ERROR: Erro ao carregar ETH de nonexistent_directory/ETH.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ETH.csv'
+[2025-07-12 02:39:37,524] ERROR: Erro ao carregar SHIB de nonexistent_directory/SHIB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SHIB.csv'
+[2025-07-12 02:39:37,524] ERROR: Erro ao carregar SOL de nonexistent_directory/SOL.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SOL.csv'
+[2025-07-12 02:39:37,525] ERROR: Erro ao carregar XRP de nonexistent_directory/XRP.csv: [Errno 2] No such file or directory: 'nonexistent_directory/XRP.csv'
+[2025-07-12 02:40:00,835] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 02:40:00,844] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 02:40:00,859] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 02:40:00,871] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 02:40:00,883] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 02:40:00,890] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 02:40:00,903] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 02:40:00,911] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 02:40:00,919] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 02:40:00,931] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 02:40:00,946] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 02:40:00,952] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 02:40:00,963] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 02:40:00,975] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 02:40:00,986] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 02:40:00,992] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 02:40:01,005] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 02:40:01,012] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 02:40:01,019] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 02:40:01,031] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 02:40:01,034] ERROR: Erro ao carregar ADA de nonexistent_directory/ADA.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ADA.csv'
+[2025-07-12 02:40:01,035] ERROR: Erro ao carregar AVAX de nonexistent_directory/AVAX.csv: [Errno 2] No such file or directory: 'nonexistent_directory/AVAX.csv'
+[2025-07-12 02:40:01,035] ERROR: Erro ao carregar BNB de nonexistent_directory/BNB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BNB.csv'
+[2025-07-12 02:40:01,035] ERROR: Erro ao carregar BTC de nonexistent_directory/BTC.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BTC.csv'
+[2025-07-12 02:40:01,036] ERROR: Erro ao carregar DOGE de nonexistent_directory/DOGE.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOGE.csv'
+[2025-07-12 02:40:01,036] ERROR: Erro ao carregar DOT de nonexistent_directory/DOT.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOT.csv'
+[2025-07-12 02:40:01,036] ERROR: Erro ao carregar ETH de nonexistent_directory/ETH.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ETH.csv'
+[2025-07-12 02:40:01,037] ERROR: Erro ao carregar SHIB de nonexistent_directory/SHIB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SHIB.csv'
+[2025-07-12 02:40:01,037] ERROR: Erro ao carregar SOL de nonexistent_directory/SOL.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SOL.csv'
+[2025-07-12 02:40:01,037] ERROR: Erro ao carregar XRP de nonexistent_directory/XRP.csv: [Errno 2] No such file or directory: 'nonexistent_directory/XRP.csv'
+[2025-07-12 02:44:15,725] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 02:44:15,731] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 02:44:15,740] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 02:44:15,752] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 02:44:15,762] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 02:44:15,768] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 02:44:15,780] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 02:44:15,786] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 02:44:15,793] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 02:44:15,804] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 02:44:15,817] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 02:44:15,823] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 02:44:15,832] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 02:44:15,842] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 02:44:15,854] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 02:44:15,859] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 02:44:15,870] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 02:44:15,876] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 02:44:15,882] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 02:44:15,893] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 02:44:15,896] ERROR: Erro ao carregar ADA de nonexistent_directory/ADA.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ADA.csv'
+[2025-07-12 02:44:15,896] ERROR: Erro ao carregar AVAX de nonexistent_directory/AVAX.csv: [Errno 2] No such file or directory: 'nonexistent_directory/AVAX.csv'
+[2025-07-12 02:44:15,897] ERROR: Erro ao carregar BNB de nonexistent_directory/BNB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BNB.csv'
+[2025-07-12 02:44:15,897] ERROR: Erro ao carregar BTC de nonexistent_directory/BTC.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BTC.csv'
+[2025-07-12 02:44:15,897] ERROR: Erro ao carregar DOGE de nonexistent_directory/DOGE.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOGE.csv'
+[2025-07-12 02:44:15,897] ERROR: Erro ao carregar DOT de nonexistent_directory/DOT.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOT.csv'
+[2025-07-12 02:44:15,898] ERROR: Erro ao carregar ETH de nonexistent_directory/ETH.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ETH.csv'
+[2025-07-12 02:44:15,898] ERROR: Erro ao carregar SHIB de nonexistent_directory/SHIB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SHIB.csv'
+[2025-07-12 02:44:15,898] ERROR: Erro ao carregar SOL de nonexistent_directory/SOL.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SOL.csv'
+[2025-07-12 02:44:15,898] ERROR: Erro ao carregar XRP de nonexistent_directory/XRP.csv: [Errno 2] No such file or directory: 'nonexistent_directory/XRP.csv'
+[2025-07-12 03:04:20,872] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 03:04:20,879] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 03:04:20,890] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 03:04:20,904] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 03:04:20,915] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 03:04:20,923] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 03:04:20,937] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 03:04:20,945] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 03:04:20,954] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 03:04:20,965] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 03:04:20,978] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 03:04:20,985] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 03:04:21,007] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 03:04:21,024] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 03:04:21,036] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 03:04:21,042] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 03:04:21,055] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 03:04:21,062] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 03:04:21,068] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 03:04:21,080] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 03:04:21,083] ERROR: Erro ao carregar ADA de nonexistent_directory/ADA.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ADA.csv'
+[2025-07-12 03:04:21,084] ERROR: Erro ao carregar AVAX de nonexistent_directory/AVAX.csv: [Errno 2] No such file or directory: 'nonexistent_directory/AVAX.csv'
+[2025-07-12 03:04:21,084] ERROR: Erro ao carregar BNB de nonexistent_directory/BNB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BNB.csv'
+[2025-07-12 03:04:21,084] ERROR: Erro ao carregar BTC de nonexistent_directory/BTC.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BTC.csv'
+[2025-07-12 03:04:21,085] ERROR: Erro ao carregar DOGE de nonexistent_directory/DOGE.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOGE.csv'
+[2025-07-12 03:04:21,085] ERROR: Erro ao carregar DOT de nonexistent_directory/DOT.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOT.csv'
+[2025-07-12 03:04:21,085] ERROR: Erro ao carregar ETH de nonexistent_directory/ETH.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ETH.csv'
+[2025-07-12 03:04:21,086] ERROR: Erro ao carregar SHIB de nonexistent_directory/SHIB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SHIB.csv'
+[2025-07-12 03:04:21,086] ERROR: Erro ao carregar SOL de nonexistent_directory/SOL.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SOL.csv'
+[2025-07-12 03:04:21,086] ERROR: Erro ao carregar XRP de nonexistent_directory/XRP.csv: [Errno 2] No such file or directory: 'nonexistent_directory/XRP.csv'
+[2025-07-12 16:29:10,568] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 16:29:10,579] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 16:29:10,592] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 16:29:10,609] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 16:29:10,620] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 16:29:10,630] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 16:29:10,649] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 16:29:10,656] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 16:29:10,665] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 16:29:10,681] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 17:41:33,386] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 17:41:33,395] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 17:41:33,411] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 17:41:33,426] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 17:41:33,436] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 17:41:33,441] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 17:41:33,452] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 17:41:33,457] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 17:41:33,463] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 17:41:33,473] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 17:48:20,799] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 17:48:20,806] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 17:48:20,817] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 17:48:20,829] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 17:48:20,837] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 17:48:20,843] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 17:48:20,856] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 17:48:20,863] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 17:48:20,869] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 17:48:20,882] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 17:59:26,995] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 17:59:27,002] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 17:59:27,010] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 17:59:27,020] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 17:59:27,027] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 17:59:27,033] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 17:59:27,041] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 17:59:27,046] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 17:59:27,052] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 17:59:27,059] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 17:59:49,567] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 17:59:49,575] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 17:59:49,584] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 17:59:49,595] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 17:59:49,603] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 17:59:49,610] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 17:59:49,618] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 17:59:49,624] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 17:59:49,630] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 17:59:49,640] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 18:09:26,004] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 18:09:26,012] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 18:09:26,020] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 18:09:26,030] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 18:09:26,037] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 18:09:26,044] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 18:09:26,053] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 18:09:26,059] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 18:09:26,066] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 18:09:26,075] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 18:26:13,518] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 18:26:13,525] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 18:26:13,533] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 18:26:13,542] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 18:26:13,550] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 18:26:13,556] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 18:26:13,565] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 18:26:13,571] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 18:26:13,578] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 18:26:13,585] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 18:46:34,756] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 18:46:34,763] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 18:46:34,786] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 18:46:34,818] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 18:46:34,830] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 18:46:34,841] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 18:46:34,855] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 18:46:34,863] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 18:46:34,869] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 18:46:34,882] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 18:48:54,514] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 18:48:54,521] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 18:48:54,541] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 18:48:54,557] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 18:48:54,566] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 18:48:54,571] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 18:48:54,592] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 18:48:54,598] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 18:48:54,603] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 18:48:54,614] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 18:49:27,025] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 18:49:27,031] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 18:49:27,041] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 18:49:27,053] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 18:49:27,064] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 18:49:27,069] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 18:49:27,081] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 18:49:27,086] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 18:49:27,091] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 18:49:27,099] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 19:01:38,862] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 19:01:38,871] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 19:01:38,882] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 19:01:38,894] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 19:01:38,914] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 19:01:38,931] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 19:01:38,970] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 19:01:38,998] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 19:01:39,016] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 19:01:39,041] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 19:13:59,173] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 19:13:59,185] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 19:13:59,196] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 19:13:59,207] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 19:13:59,216] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 19:13:59,222] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 19:13:59,233] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 19:13:59,238] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 19:13:59,243] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 19:13:59,254] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 19:16:12,528] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 19:16:12,533] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 19:16:12,542] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 19:16:12,552] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 19:16:12,560] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 19:16:12,564] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 19:16:12,576] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 19:16:12,581] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 19:16:12,586] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 19:16:12,596] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 19:17:53,100] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 19:17:53,107] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 19:17:53,118] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 19:17:53,130] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 19:17:53,139] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 19:17:53,144] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 19:17:53,157] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 19:17:53,163] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 19:17:53,169] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 19:17:53,182] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 19:31:53,426] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 19:31:53,433] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 19:31:53,442] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 19:31:53,451] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 19:31:53,461] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 19:31:53,466] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 19:31:53,477] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 19:31:53,482] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 19:31:53,488] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 19:31:53,496] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 19:43:08,550] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 19:43:08,556] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 19:43:08,565] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 19:43:08,574] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 19:43:08,582] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 19:43:08,587] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 19:43:08,596] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 19:43:08,601] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 19:43:08,606] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 19:43:08,615] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 19:45:11,037] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 19:45:11,043] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 19:45:11,053] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 19:45:11,063] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 19:45:11,072] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 19:45:11,077] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 19:45:11,088] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 19:45:11,093] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 19:45:11,100] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 19:45:11,109] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 20:30:30,271] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 20:30:30,311] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 20:30:30,337] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 20:30:30,350] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 20:30:30,363] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 20:30:30,370] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 20:30:30,383] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 20:30:30,388] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 20:30:30,394] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 20:30:30,407] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-12 20:31:02,886] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-12 20:31:02,893] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-12 20:31:02,905] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-12 20:31:02,918] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-12 20:31:02,928] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-12 20:31:02,934] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-12 20:31:02,947] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-12 20:31:02,954] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-12 20:31:02,961] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-12 20:31:02,972] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-13 15:46:16,149] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-13 15:46:16,157] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-13 15:46:16,171] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-13 15:46:16,186] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-13 15:46:16,200] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-13 15:46:16,209] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-13 15:46:16,228] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-13 15:46:16,238] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-13 15:46:16,248] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-13 15:46:16,268] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-13 15:46:27,485] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-13 15:46:27,493] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-13 15:46:27,503] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-13 15:46:27,514] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-13 15:46:27,532] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-13 15:46:27,541] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-13 15:46:27,554] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-13 15:46:27,563] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-13 15:46:27,569] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-13 15:46:27,580] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-13 15:49:27,800] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-13 15:49:27,807] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-13 15:49:27,820] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-13 15:49:27,834] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-13 15:49:27,846] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-13 15:49:27,853] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-13 15:49:27,865] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-13 15:49:27,870] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-13 15:49:27,875] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-13 15:49:27,885] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-13 15:49:43,006] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-13 15:49:43,013] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-13 15:49:43,022] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-13 15:49:43,033] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-13 15:49:43,045] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-13 15:49:43,051] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-13 15:49:43,063] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-13 15:49:43,069] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-13 15:49:43,075] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-13 15:49:43,088] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-13 15:49:49,339] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-13 15:49:49,345] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-13 15:49:49,354] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-13 15:49:49,366] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-13 15:49:49,375] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-13 15:49:49,380] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-13 15:49:49,389] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-13 15:49:49,394] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-13 15:49:49,400] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-13 15:49:49,410] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-13 15:55:35,303] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-13 15:55:35,309] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-13 15:55:35,326] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-13 15:55:35,344] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-13 15:55:35,354] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-13 15:55:35,359] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-13 15:55:35,385] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-13 15:55:35,391] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-13 15:55:35,398] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-13 15:55:35,413] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-13 16:00:34,199] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-13 16:00:34,208] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-13 16:00:34,221] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-13 16:00:34,234] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-13 16:00:34,247] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-13 16:00:34,256] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-13 16:00:34,271] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-13 16:00:34,281] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-13 16:00:34,290] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-13 16:00:34,303] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-13 16:00:34,318] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-13 16:00:34,327] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-13 16:00:34,339] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-13 16:00:34,354] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-13 16:00:34,367] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-13 16:00:34,376] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-13 16:00:34,391] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-13 16:00:34,404] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-13 16:00:34,414] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-13 16:00:34,429] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-13 16:00:34,435] ERROR: Erro ao carregar ADA de nonexistent_directory/ADA.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ADA.csv'
+[2025-07-13 16:00:34,435] ERROR: Erro ao carregar AVAX de nonexistent_directory/AVAX.csv: [Errno 2] No such file or directory: 'nonexistent_directory/AVAX.csv'
+[2025-07-13 16:00:34,436] ERROR: Erro ao carregar BNB de nonexistent_directory/BNB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BNB.csv'
+[2025-07-13 16:00:34,436] ERROR: Erro ao carregar BTC de nonexistent_directory/BTC.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BTC.csv'
+[2025-07-13 16:00:34,436] ERROR: Erro ao carregar DOGE de nonexistent_directory/DOGE.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOGE.csv'
+[2025-07-13 16:00:34,437] ERROR: Erro ao carregar DOT de nonexistent_directory/DOT.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOT.csv'
+[2025-07-13 16:00:34,437] ERROR: Erro ao carregar ETH de nonexistent_directory/ETH.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ETH.csv'
+[2025-07-13 16:00:34,437] ERROR: Erro ao carregar SHIB de nonexistent_directory/SHIB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SHIB.csv'
+[2025-07-13 16:00:34,438] ERROR: Erro ao carregar SOL de nonexistent_directory/SOL.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SOL.csv'
+[2025-07-13 16:00:34,438] ERROR: Erro ao carregar XRP de nonexistent_directory/XRP.csv: [Errno 2] No such file or directory: 'nonexistent_directory/XRP.csv'
+[2025-07-13 16:19:26,612] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-13 16:19:26,623] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-13 16:19:26,637] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-13 16:19:26,651] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-13 16:19:26,663] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-13 16:19:26,673] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-13 16:19:26,688] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-13 16:19:26,698] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-13 16:19:26,707] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-13 16:19:26,722] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-13 16:19:26,740] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-13 16:19:26,749] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-13 16:19:26,761] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-13 16:19:26,773] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-13 16:19:26,784] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-13 16:19:26,791] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-13 16:19:26,815] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-13 16:19:26,832] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-13 16:19:26,850] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-13 16:19:26,875] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-13 16:19:26,882] ERROR: Erro ao carregar ADA de nonexistent_directory/ADA.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ADA.csv'
+[2025-07-13 16:19:26,884] ERROR: Erro ao carregar AVAX de nonexistent_directory/AVAX.csv: [Errno 2] No such file or directory: 'nonexistent_directory/AVAX.csv'
+[2025-07-13 16:19:26,884] ERROR: Erro ao carregar BNB de nonexistent_directory/BNB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BNB.csv'
+[2025-07-13 16:19:26,885] ERROR: Erro ao carregar BTC de nonexistent_directory/BTC.csv: [Errno 2] No such file or directory: 'nonexistent_directory/BTC.csv'
+[2025-07-13 16:19:26,886] ERROR: Erro ao carregar DOGE de nonexistent_directory/DOGE.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOGE.csv'
+[2025-07-13 16:19:26,886] ERROR: Erro ao carregar DOT de nonexistent_directory/DOT.csv: [Errno 2] No such file or directory: 'nonexistent_directory/DOT.csv'
+[2025-07-13 16:19:26,887] ERROR: Erro ao carregar ETH de nonexistent_directory/ETH.csv: [Errno 2] No such file or directory: 'nonexistent_directory/ETH.csv'
+[2025-07-13 16:19:26,888] ERROR: Erro ao carregar SHIB de nonexistent_directory/SHIB.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SHIB.csv'
+[2025-07-13 16:19:26,888] ERROR: Erro ao carregar SOL de nonexistent_directory/SOL.csv: [Errno 2] No such file or directory: 'nonexistent_directory/SOL.csv'
+[2025-07-13 16:19:26,889] ERROR: Erro ao carregar XRP de nonexistent_directory/XRP.csv: [Errno 2] No such file or directory: 'nonexistent_directory/XRP.csv'
+[2025-07-13 16:29:17,367] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-13 16:29:17,373] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-13 16:29:17,382] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-13 16:29:17,393] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-13 16:29:17,404] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-13 16:29:17,410] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-13 16:29:17,421] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-13 16:29:17,427] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-13 16:29:17,433] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-13 16:29:17,445] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-13 18:57:07,893] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-13 18:57:07,896] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-13 18:57:07,900] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-13 18:57:07,904] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-13 18:57:07,907] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-13 18:57:07,910] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-13 18:57:07,914] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-13 18:57:07,917] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-13 18:57:07,920] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-13 18:57:07,923] INFO: XRP carregada com sucesso de data/XRP.csv.
+[2025-07-13 18:57:57,019] INFO: ADA carregada com sucesso de data/ADA.csv.
+[2025-07-13 18:57:57,022] INFO: AVAX carregada com sucesso de data/AVAX.csv.
+[2025-07-13 18:57:57,025] INFO: BNB carregada com sucesso de data/BNB.csv.
+[2025-07-13 18:57:57,029] INFO: BTC carregada com sucesso de data/BTC.csv.
+[2025-07-13 18:57:57,032] INFO: DOGE carregada com sucesso de data/DOGE.csv.
+[2025-07-13 18:57:57,034] INFO: DOT carregada com sucesso de data/DOT.csv.
+[2025-07-13 18:57:57,038] INFO: ETH carregada com sucesso de data/ETH.csv.
+[2025-07-13 18:57:57,040] INFO: SHIB carregada com sucesso de data/SHIB.csv.
+[2025-07-13 18:57:57,043] INFO: SOL carregada com sucesso de data/SOL.csv.
+[2025-07-13 18:57:57,046] INFO: XRP carregada com sucesso de data/XRP.csv.

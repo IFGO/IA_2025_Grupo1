@@ -1,0 +1,1102 @@
+[2025-07-11 23:49:34,204] INFO: Fold 1: MSE = 0.0026, R² = 0.9925
+[2025-07-11 23:49:34,985] INFO: Fold 2: MSE = 0.0048, R² = 0.9869
+[2025-07-11 23:49:35,668] INFO: Fold 3: MSE = 0.0055, R² = 0.9813
+[2025-07-11 23:49:36,495] INFO: Fold 4: MSE = 0.0033, R² = 0.9926
+[2025-07-11 23:49:37,212] INFO: Fold 5: MSE = 0.0023, R² = 0.9902
+[2025-07-11 23:49:37,212] INFO: Treinamento concluído. Melhor MSE: 0.0023
+[2025-07-11 23:49:37,216] INFO: Avaliação do modelo: MSE=0.0017, R²=0.9943
+[2025-07-11 23:49:38,992] INFO: Fold 1: MSE = 0.0022, R² = 0.9932
+[2025-07-11 23:49:39,929] INFO: Fold 2: MSE = 0.0043, R² = 0.9852
+[2025-07-11 23:49:40,771] INFO: Fold 3: MSE = 0.0032, R² = 0.9898
+[2025-07-11 23:49:41,574] INFO: Fold 4: MSE = 0.0016, R² = 0.9934
+[2025-07-11 23:49:42,564] INFO: Fold 5: MSE = 0.0034, R² = 0.9904
+[2025-07-11 23:49:42,565] INFO: Treinamento concluído. Melhor MSE: 0.0016
+[2025-07-12 02:23:20,334] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/range.py", line 417, in get_loc
+    raise KeyError(key)
+KeyError: 'close'
+[2025-07-12 02:23:20,788] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'close'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'close'
+[2025-07-12 02:23:20,835] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:23:20,854] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:23:20,854] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:23:20,875] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:23:20,893] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:23:20,893] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:23:20,916] INFO: Fold 1: MSE = 0.1211, R² = -0.2251
+[2025-07-12 02:23:20,938] INFO: Fold 2: MSE = 0.0884, R² = -0.4417
+[2025-07-12 02:23:20,960] INFO: Fold 3: MSE = 0.1086, R² = -0.2365
+[2025-07-12 02:23:20,960] INFO: Treinamento concluído. Melhor MSE: 0.0884
+[2025-07-12 02:23:20,983] INFO: Fold 1: MSE = 0.1290, R² = -0.0677
+[2025-07-12 02:23:21,006] INFO: Fold 2: MSE = 0.0948, R² = -0.6211
+[2025-07-12 02:23:21,026] INFO: Fold 3: MSE = 0.0998, R² = -0.5073
+[2025-07-12 02:23:21,047] INFO: Fold 4: MSE = 0.1426, R² = -0.3960
+[2025-07-12 02:23:21,069] INFO: Fold 5: MSE = 0.0643, R² = -0.1569
+[2025-07-12 02:23:21,070] INFO: Treinamento concluído. Melhor MSE: 0.0643
+[2025-07-12 02:23:21,125] INFO: Fold 1: MSE = 0.0181, R² = nan
+[2025-07-12 02:23:21,142] INFO: Fold 2: MSE = 0.3361, R² = nan
+[2025-07-12 02:23:21,174] INFO: Fold 3: MSE = 0.2897, R² = nan
+[2025-07-12 02:23:21,231] INFO: Fold 4: MSE = 0.0142, R² = nan
+[2025-07-12 02:23:21,287] INFO: Fold 5: MSE = 0.0183, R² = nan
+[2025-07-12 02:23:21,287] INFO: Treinamento concluído. Melhor MSE: 0.0142
+[2025-07-12 02:23:21,328] INFO: Avaliação do modelo: MSE=0.0896, R²=-0.0551
+[2025-07-12 02:23:21,428] INFO: Avaliação do modelo: MSE=0.0906, R²=0.7617
+[2025-07-12 02:23:21,439] ERROR: Erro ao avaliar modelo: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 114, in evaluate_model
+    y_pred = model.predict(X_test)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py", line 1743, in predict
+    check_is_fitted(self)
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1754, in check_is_fitted
+    raise NotFittedError(msg % {"name": type(estimator).__name__})
+sklearn.exceptions.NotFittedError: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+[2025-07-12 02:23:21,541] INFO: Fold 1: MSE = 31697815.1888, R² = -0.6839
+[2025-07-12 02:23:21,573] INFO: Fold 2: MSE = 39154318.4312, R² = -1.8290
+[2025-07-12 02:23:21,575] INFO: Treinamento concluído. Melhor MSE: 31697815.1888
+[2025-07-12 02:23:21,577] INFO: Avaliação do modelo: MSE=35528131.1739, R²=-0.6820
+[2025-07-12 02:25:53,310] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/range.py", line 417, in get_loc
+    raise KeyError(key)
+KeyError: 'close'
+[2025-07-12 02:25:53,703] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'close'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'close'
+[2025-07-12 02:25:53,765] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:25:53,783] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:25:53,783] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:25:53,807] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:25:53,827] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:25:53,827] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:25:53,850] INFO: Fold 1: MSE = 0.1211, R² = -0.2251
+[2025-07-12 02:25:53,872] INFO: Fold 2: MSE = 0.0884, R² = -0.4417
+[2025-07-12 02:25:53,897] INFO: Fold 3: MSE = 0.1086, R² = -0.2365
+[2025-07-12 02:25:53,898] INFO: Treinamento concluído. Melhor MSE: 0.0884
+[2025-07-12 02:25:53,919] INFO: Fold 1: MSE = 0.1290, R² = -0.0677
+[2025-07-12 02:25:53,938] INFO: Fold 2: MSE = 0.0948, R² = -0.6211
+[2025-07-12 02:25:53,960] INFO: Fold 3: MSE = 0.0998, R² = -0.5073
+[2025-07-12 02:25:53,991] INFO: Fold 4: MSE = 0.1426, R² = -0.3960
+[2025-07-12 02:25:54,023] INFO: Fold 5: MSE = 0.0643, R² = -0.1569
+[2025-07-12 02:25:54,024] INFO: Treinamento concluído. Melhor MSE: 0.0643
+[2025-07-12 02:25:54,084] INFO: Fold 1: MSE = 0.0181, R² = nan
+[2025-07-12 02:25:54,104] INFO: Fold 2: MSE = 0.3361, R² = nan
+[2025-07-12 02:25:54,141] INFO: Fold 3: MSE = 0.2897, R² = nan
+[2025-07-12 02:25:54,204] INFO: Fold 4: MSE = 0.0142, R² = nan
+[2025-07-12 02:25:54,258] INFO: Fold 5: MSE = 0.0183, R² = nan
+[2025-07-12 02:25:54,258] INFO: Treinamento concluído. Melhor MSE: 0.0142
+[2025-07-12 02:25:54,304] INFO: Avaliação do modelo: MSE=0.0896, R²=-0.0551
+[2025-07-12 02:25:54,402] INFO: Avaliação do modelo: MSE=0.0906, R²=0.7617
+[2025-07-12 02:25:54,414] ERROR: Erro ao avaliar modelo: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 114, in evaluate_model
+    y_pred = model.predict(X_test)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py", line 1743, in predict
+    check_is_fitted(self)
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1754, in check_is_fitted
+    raise NotFittedError(msg % {"name": type(estimator).__name__})
+sklearn.exceptions.NotFittedError: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+[2025-07-12 02:25:54,528] INFO: Fold 1: MSE = 31697815.1888, R² = -0.6839
+[2025-07-12 02:25:54,554] INFO: Fold 2: MSE = 39154318.4312, R² = -1.8290
+[2025-07-12 02:25:54,555] INFO: Treinamento concluído. Melhor MSE: 31697815.1888
+[2025-07-12 02:25:54,557] INFO: Avaliação do modelo: MSE=35528131.1739, R²=-0.6820
+[2025-07-12 02:32:55,350] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/range.py", line 417, in get_loc
+    raise KeyError(key)
+KeyError: 'close'
+[2025-07-12 02:32:55,844] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'close'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'close'
+[2025-07-12 02:32:55,895] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:32:55,921] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:32:55,922] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:32:55,953] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:32:55,972] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:32:55,972] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:32:55,994] INFO: Fold 1: MSE = 0.1211, R² = -0.2251
+[2025-07-12 02:32:56,016] INFO: Fold 2: MSE = 0.0884, R² = -0.4417
+[2025-07-12 02:32:56,039] INFO: Fold 3: MSE = 0.1086, R² = -0.2365
+[2025-07-12 02:32:56,040] INFO: Treinamento concluído. Melhor MSE: 0.0884
+[2025-07-12 02:32:56,061] INFO: Fold 1: MSE = 0.1290, R² = -0.0677
+[2025-07-12 02:32:56,081] INFO: Fold 2: MSE = 0.0948, R² = -0.6211
+[2025-07-12 02:32:56,103] INFO: Fold 3: MSE = 0.0998, R² = -0.5073
+[2025-07-12 02:32:56,123] INFO: Fold 4: MSE = 0.1426, R² = -0.3960
+[2025-07-12 02:32:56,144] INFO: Fold 5: MSE = 0.0643, R² = -0.1569
+[2025-07-12 02:32:56,144] INFO: Treinamento concluído. Melhor MSE: 0.0643
+[2025-07-12 02:32:56,203] INFO: Fold 1: MSE = 0.0181, R² = nan
+[2025-07-12 02:32:56,223] INFO: Fold 2: MSE = 0.3361, R² = nan
+[2025-07-12 02:32:56,259] INFO: Fold 3: MSE = 0.2897, R² = nan
+[2025-07-12 02:32:56,318] INFO: Fold 4: MSE = 0.0142, R² = nan
+[2025-07-12 02:32:56,376] INFO: Fold 5: MSE = 0.0183, R² = nan
+[2025-07-12 02:32:56,377] INFO: Treinamento concluído. Melhor MSE: 0.0142
+[2025-07-12 02:32:56,425] INFO: Avaliação do modelo: MSE=0.0896, R²=-0.0551
+[2025-07-12 02:32:56,532] INFO: Avaliação do modelo: MSE=0.0906, R²=0.7617
+[2025-07-12 02:32:56,546] ERROR: Erro ao avaliar modelo: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 114, in evaluate_model
+    y_pred = model.predict(X_test)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py", line 1743, in predict
+    check_is_fitted(self)
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1754, in check_is_fitted
+    raise NotFittedError(msg % {"name": type(estimator).__name__})
+sklearn.exceptions.NotFittedError: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+[2025-07-12 02:32:56,666] INFO: Fold 1: MSE = 31697815.1888, R² = -0.6839
+[2025-07-12 02:32:56,692] INFO: Fold 2: MSE = 39154318.4312, R² = -1.8290
+[2025-07-12 02:32:56,692] INFO: Treinamento concluído. Melhor MSE: 31697815.1888
+[2025-07-12 02:32:56,694] INFO: Avaliação do modelo: MSE=35528131.1739, R²=-0.6820
+[2025-07-12 02:33:10,108] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/range.py", line 417, in get_loc
+    raise KeyError(key)
+KeyError: 'close'
+[2025-07-12 02:33:10,533] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'close'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'close'
+[2025-07-12 02:33:10,575] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:33:10,596] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:33:10,596] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:33:10,621] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:33:10,642] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:33:10,643] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:33:10,666] INFO: Fold 1: MSE = 0.1211, R² = -0.2251
+[2025-07-12 02:33:10,690] INFO: Fold 2: MSE = 0.0884, R² = -0.4417
+[2025-07-12 02:33:10,712] INFO: Fold 3: MSE = 0.1086, R² = -0.2365
+[2025-07-12 02:33:10,713] INFO: Treinamento concluído. Melhor MSE: 0.0884
+[2025-07-12 02:33:10,738] INFO: Fold 1: MSE = 0.1290, R² = -0.0677
+[2025-07-12 02:33:10,762] INFO: Fold 2: MSE = 0.0948, R² = -0.6211
+[2025-07-12 02:33:10,788] INFO: Fold 3: MSE = 0.0998, R² = -0.5073
+[2025-07-12 02:33:10,814] INFO: Fold 4: MSE = 0.1426, R² = -0.3960
+[2025-07-12 02:33:10,839] INFO: Fold 5: MSE = 0.0643, R² = -0.1569
+[2025-07-12 02:33:10,839] INFO: Treinamento concluído. Melhor MSE: 0.0643
+[2025-07-12 02:33:10,904] INFO: Fold 1: MSE = 0.0181, R² = nan
+[2025-07-12 02:33:10,924] INFO: Fold 2: MSE = 0.3361, R² = nan
+[2025-07-12 02:33:10,961] INFO: Fold 3: MSE = 0.2897, R² = nan
+[2025-07-12 02:33:11,023] INFO: Fold 4: MSE = 0.0142, R² = nan
+[2025-07-12 02:33:11,082] INFO: Fold 5: MSE = 0.0183, R² = nan
+[2025-07-12 02:33:11,082] INFO: Treinamento concluído. Melhor MSE: 0.0142
+[2025-07-12 02:33:11,129] INFO: Avaliação do modelo: MSE=0.0896, R²=-0.0551
+[2025-07-12 02:33:11,238] INFO: Avaliação do modelo: MSE=0.0906, R²=0.7617
+[2025-07-12 02:33:11,252] ERROR: Erro ao avaliar modelo: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 114, in evaluate_model
+    y_pred = model.predict(X_test)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py", line 1743, in predict
+    check_is_fitted(self)
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1754, in check_is_fitted
+    raise NotFittedError(msg % {"name": type(estimator).__name__})
+sklearn.exceptions.NotFittedError: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+[2025-07-12 02:33:11,399] INFO: Fold 1: MSE = 31697815.1888, R² = -0.6839
+[2025-07-12 02:33:11,456] INFO: Fold 2: MSE = 39154318.4312, R² = -1.8290
+[2025-07-12 02:33:11,458] INFO: Treinamento concluído. Melhor MSE: 31697815.1888
+[2025-07-12 02:33:11,462] INFO: Avaliação do modelo: MSE=35528131.1739, R²=-0.6820
+[2025-07-12 02:33:59,078] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/range.py", line 417, in get_loc
+    raise KeyError(key)
+KeyError: 'close'
+[2025-07-12 02:33:59,539] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'close'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'close'
+[2025-07-12 02:33:59,579] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:33:59,600] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:33:59,600] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:33:59,624] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:33:59,645] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:33:59,645] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:33:59,670] INFO: Fold 1: MSE = 0.1211, R² = -0.2251
+[2025-07-12 02:33:59,692] INFO: Fold 2: MSE = 0.0884, R² = -0.4417
+[2025-07-12 02:33:59,715] INFO: Fold 3: MSE = 0.1086, R² = -0.2365
+[2025-07-12 02:33:59,715] INFO: Treinamento concluído. Melhor MSE: 0.0884
+[2025-07-12 02:33:59,737] INFO: Fold 1: MSE = 0.1290, R² = -0.0677
+[2025-07-12 02:33:59,762] INFO: Fold 2: MSE = 0.0948, R² = -0.6211
+[2025-07-12 02:33:59,785] INFO: Fold 3: MSE = 0.0998, R² = -0.5073
+[2025-07-12 02:33:59,806] INFO: Fold 4: MSE = 0.1426, R² = -0.3960
+[2025-07-12 02:33:59,825] INFO: Fold 5: MSE = 0.0643, R² = -0.1569
+[2025-07-12 02:33:59,826] INFO: Treinamento concluído. Melhor MSE: 0.0643
+[2025-07-12 02:33:59,855] INFO: Avaliação do modelo: MSE=0.0896, R²=-0.0551
+[2025-07-12 02:33:59,953] INFO: Avaliação do modelo: MSE=0.0906, R²=0.7617
+[2025-07-12 02:33:59,967] ERROR: Erro ao avaliar modelo: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 114, in evaluate_model
+    y_pred = model.predict(X_test)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py", line 1743, in predict
+    check_is_fitted(self)
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1754, in check_is_fitted
+    raise NotFittedError(msg % {"name": type(estimator).__name__})
+sklearn.exceptions.NotFittedError: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+[2025-07-12 02:34:00,079] INFO: Fold 1: MSE = 31697815.1888, R² = -0.6839
+[2025-07-12 02:34:00,106] INFO: Fold 2: MSE = 39154318.4312, R² = -1.8290
+[2025-07-12 02:34:00,106] INFO: Treinamento concluído. Melhor MSE: 31697815.1888
+[2025-07-12 02:34:00,108] INFO: Avaliação do modelo: MSE=35528131.1739, R²=-0.6820
+[2025-07-12 02:34:23,955] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/range.py", line 417, in get_loc
+    raise KeyError(key)
+KeyError: 'close'
+[2025-07-12 02:34:24,315] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'close'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'close'
+[2025-07-12 02:34:24,352] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:34:24,371] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:34:24,372] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:34:24,395] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:34:24,413] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:34:24,413] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:34:24,432] INFO: Fold 1: MSE = 0.1211, R² = -0.2251
+[2025-07-12 02:34:24,451] INFO: Fold 2: MSE = 0.0884, R² = -0.4417
+[2025-07-12 02:34:24,470] INFO: Fold 3: MSE = 0.1086, R² = -0.2365
+[2025-07-12 02:34:24,470] INFO: Treinamento concluído. Melhor MSE: 0.0884
+[2025-07-12 02:34:24,491] INFO: Fold 1: MSE = 0.1290, R² = -0.0677
+[2025-07-12 02:34:24,513] INFO: Fold 2: MSE = 0.0948, R² = -0.6211
+[2025-07-12 02:34:24,535] INFO: Fold 3: MSE = 0.0998, R² = -0.5073
+[2025-07-12 02:34:24,557] INFO: Fold 4: MSE = 0.1426, R² = -0.3960
+[2025-07-12 02:34:24,579] INFO: Fold 5: MSE = 0.0643, R² = -0.1569
+[2025-07-12 02:34:24,579] INFO: Treinamento concluído. Melhor MSE: 0.0643
+[2025-07-12 02:34:24,612] INFO: Avaliação do modelo: MSE=0.0896, R²=-0.0551
+[2025-07-12 02:34:24,713] INFO: Avaliação do modelo: MSE=0.0906, R²=0.7617
+[2025-07-12 02:34:24,724] ERROR: Erro ao avaliar modelo: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 114, in evaluate_model
+    y_pred = model.predict(X_test)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py", line 1743, in predict
+    check_is_fitted(self)
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1754, in check_is_fitted
+    raise NotFittedError(msg % {"name": type(estimator).__name__})
+sklearn.exceptions.NotFittedError: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+[2025-07-12 02:34:24,814] INFO: Fold 1: MSE = 31697815.1888, R² = -0.6839
+[2025-07-12 02:34:24,832] INFO: Fold 2: MSE = 39154318.4312, R² = -1.8290
+[2025-07-12 02:34:24,833] INFO: Treinamento concluído. Melhor MSE: 31697815.1888
+[2025-07-12 02:34:24,834] INFO: Avaliação do modelo: MSE=35528131.1739, R²=-0.6820
+[2025-07-12 02:34:36,524] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/range.py", line 417, in get_loc
+    raise KeyError(key)
+KeyError: 'close'
+[2025-07-12 02:34:36,914] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'close'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'close'
+[2025-07-12 02:34:36,951] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:34:36,971] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:34:36,971] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:34:36,994] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:34:37,015] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:34:37,015] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:34:37,037] INFO: Fold 1: MSE = 0.1211, R² = -0.2251
+[2025-07-12 02:34:37,057] INFO: Fold 2: MSE = 0.0884, R² = -0.4417
+[2025-07-12 02:34:37,080] INFO: Fold 3: MSE = 0.1086, R² = -0.2365
+[2025-07-12 02:34:37,080] INFO: Treinamento concluído. Melhor MSE: 0.0884
+[2025-07-12 02:34:37,104] INFO: Fold 1: MSE = 0.1290, R² = -0.0677
+[2025-07-12 02:34:37,132] INFO: Fold 2: MSE = 0.0948, R² = -0.6211
+[2025-07-12 02:34:37,158] INFO: Fold 3: MSE = 0.0998, R² = -0.5073
+[2025-07-12 02:34:37,181] INFO: Fold 4: MSE = 0.1426, R² = -0.3960
+[2025-07-12 02:34:37,202] INFO: Fold 5: MSE = 0.0643, R² = -0.1569
+[2025-07-12 02:34:37,203] INFO: Treinamento concluído. Melhor MSE: 0.0643
+[2025-07-12 02:34:37,239] INFO: Avaliação do modelo: MSE=0.0896, R²=-0.0551
+[2025-07-12 02:34:37,342] INFO: Avaliação do modelo: MSE=0.0906, R²=0.7617
+[2025-07-12 02:34:37,354] ERROR: Erro ao avaliar modelo: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 114, in evaluate_model
+    y_pred = model.predict(X_test)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py", line 1743, in predict
+    check_is_fitted(self)
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1754, in check_is_fitted
+    raise NotFittedError(msg % {"name": type(estimator).__name__})
+sklearn.exceptions.NotFittedError: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+[2025-07-12 02:34:37,459] INFO: Fold 1: MSE = 31697815.1888, R² = -0.6839
+[2025-07-12 02:34:37,480] INFO: Fold 2: MSE = 39154318.4312, R² = -1.8290
+[2025-07-12 02:34:37,481] INFO: Treinamento concluído. Melhor MSE: 31697815.1888
+[2025-07-12 02:34:37,483] INFO: Avaliação do modelo: MSE=35528131.1739, R²=-0.6820
+[2025-07-12 02:35:10,181] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/range.py", line 417, in get_loc
+    raise KeyError(key)
+KeyError: 'close'
+[2025-07-12 02:35:10,589] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'close'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'close'
+[2025-07-12 02:35:10,632] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:35:10,654] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:35:10,655] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:35:10,681] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:35:10,702] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:35:10,703] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:35:10,727] INFO: Fold 1: MSE = 0.1211, R² = -0.2251
+[2025-07-12 02:35:10,750] INFO: Fold 2: MSE = 0.0884, R² = -0.4417
+[2025-07-12 02:35:10,775] INFO: Fold 3: MSE = 0.1086, R² = -0.2365
+[2025-07-12 02:35:10,775] INFO: Treinamento concluído. Melhor MSE: 0.0884
+[2025-07-12 02:35:10,803] INFO: Fold 1: MSE = 0.1290, R² = -0.0677
+[2025-07-12 02:35:10,827] INFO: Fold 2: MSE = 0.0948, R² = -0.6211
+[2025-07-12 02:35:10,848] INFO: Fold 3: MSE = 0.0998, R² = -0.5073
+[2025-07-12 02:35:10,869] INFO: Fold 4: MSE = 0.1426, R² = -0.3960
+[2025-07-12 02:35:10,888] INFO: Fold 5: MSE = 0.0643, R² = -0.1569
+[2025-07-12 02:35:10,888] INFO: Treinamento concluído. Melhor MSE: 0.0643
+[2025-07-12 02:35:10,918] INFO: Avaliação do modelo: MSE=0.0896, R²=-0.0551
+[2025-07-12 02:35:11,021] INFO: Avaliação do modelo: MSE=0.0906, R²=0.7617
+[2025-07-12 02:35:11,033] ERROR: Erro ao avaliar modelo: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 114, in evaluate_model
+    y_pred = model.predict(X_test)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py", line 1743, in predict
+    check_is_fitted(self)
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1754, in check_is_fitted
+    raise NotFittedError(msg % {"name": type(estimator).__name__})
+sklearn.exceptions.NotFittedError: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+[2025-07-12 02:35:11,132] INFO: Fold 1: MSE = 31697815.1888, R² = -0.6839
+[2025-07-12 02:35:11,157] INFO: Fold 2: MSE = 39154318.4312, R² = -1.8290
+[2025-07-12 02:35:11,157] INFO: Treinamento concluído. Melhor MSE: 31697815.1888
+[2025-07-12 02:35:11,159] INFO: Avaliação do modelo: MSE=35528131.1739, R²=-0.6820
+[2025-07-12 02:35:42,617] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'close'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'close'
+[2025-07-12 02:35:42,657] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:35:42,676] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:35:42,676] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:35:42,698] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:35:42,718] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:35:42,718] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:35:42,741] INFO: Fold 1: MSE = 0.1211, R² = -0.2251
+[2025-07-12 02:35:42,763] INFO: Fold 2: MSE = 0.0884, R² = -0.4417
+[2025-07-12 02:35:42,781] INFO: Fold 3: MSE = 0.1086, R² = -0.2365
+[2025-07-12 02:35:42,782] INFO: Treinamento concluído. Melhor MSE: 0.0884
+[2025-07-12 02:35:42,802] INFO: Fold 1: MSE = 0.1290, R² = -0.0677
+[2025-07-12 02:35:42,824] INFO: Fold 2: MSE = 0.0948, R² = -0.6211
+[2025-07-12 02:35:42,844] INFO: Fold 3: MSE = 0.0998, R² = -0.5073
+[2025-07-12 02:35:42,864] INFO: Fold 4: MSE = 0.1426, R² = -0.3960
+[2025-07-12 02:35:42,885] INFO: Fold 5: MSE = 0.0643, R² = -0.1569
+[2025-07-12 02:35:42,885] INFO: Treinamento concluído. Melhor MSE: 0.0643
+[2025-07-12 02:35:42,912] INFO: Avaliação do modelo: MSE=0.0896, R²=-0.0551
+[2025-07-12 02:35:43,008] INFO: Avaliação do modelo: MSE=0.0906, R²=0.7617
+[2025-07-12 02:35:43,121] ERROR: Erro ao avaliar modelo: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 114, in evaluate_model
+    y_pred = model.predict(X_test)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py", line 1743, in predict
+    check_is_fitted(self)
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1754, in check_is_fitted
+    raise NotFittedError(msg % {"name": type(estimator).__name__})
+sklearn.exceptions.NotFittedError: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+[2025-07-12 02:35:43,278] INFO: Fold 1: MSE = 31697815.1888, R² = -0.6839
+[2025-07-12 02:35:43,304] INFO: Fold 2: MSE = 39154318.4312, R² = -1.8290
+[2025-07-12 02:35:43,305] INFO: Treinamento concluído. Melhor MSE: 31697815.1888
+[2025-07-12 02:35:43,306] INFO: Avaliação do modelo: MSE=35528131.1739, R²=-0.6820
+[2025-07-12 02:37:22,959] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'close'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'close'
+[2025-07-12 02:37:23,012] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:37:23,038] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:37:23,038] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:37:23,073] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:37:23,100] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:37:23,101] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:37:23,132] INFO: Fold 1: MSE = 0.1211, R² = -0.2251
+[2025-07-12 02:37:23,164] INFO: Fold 2: MSE = 0.0884, R² = -0.4417
+[2025-07-12 02:37:23,193] INFO: Fold 3: MSE = 0.1086, R² = -0.2365
+[2025-07-12 02:37:23,193] INFO: Treinamento concluído. Melhor MSE: 0.0884
+[2025-07-12 02:37:23,220] INFO: Fold 1: MSE = 0.1290, R² = -0.0677
+[2025-07-12 02:37:23,242] INFO: Fold 2: MSE = 0.0948, R² = -0.6211
+[2025-07-12 02:37:23,267] INFO: Fold 3: MSE = 0.0998, R² = -0.5073
+[2025-07-12 02:37:23,288] INFO: Fold 4: MSE = 0.1426, R² = -0.3960
+[2025-07-12 02:37:23,309] INFO: Fold 5: MSE = 0.0643, R² = -0.1569
+[2025-07-12 02:37:23,309] INFO: Treinamento concluído. Melhor MSE: 0.0643
+[2025-07-12 02:37:23,344] INFO: Avaliação do modelo: MSE=0.0896, R²=-0.0551
+[2025-07-12 02:37:23,449] INFO: Avaliação do modelo: MSE=0.0906, R²=0.7617
+[2025-07-12 02:37:23,631] ERROR: Erro ao avaliar modelo: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 114, in evaluate_model
+    y_pred = model.predict(X_test)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py", line 1743, in predict
+    check_is_fitted(self)
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1754, in check_is_fitted
+    raise NotFittedError(msg % {"name": type(estimator).__name__})
+sklearn.exceptions.NotFittedError: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+[2025-07-12 02:37:23,732] INFO: Fold 1: MSE = 31697815.1888, R² = -0.6839
+[2025-07-12 02:37:23,754] INFO: Fold 2: MSE = 39154318.4312, R² = -1.8290
+[2025-07-12 02:37:23,754] INFO: Treinamento concluído. Melhor MSE: 31697815.1888
+[2025-07-12 02:37:23,756] INFO: Avaliação do modelo: MSE=35528131.1739, R²=-0.6820
+[2025-07-12 02:39:37,698] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'close'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'close'
+[2025-07-12 02:39:37,741] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:39:37,760] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:39:37,761] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:39:37,783] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:39:37,805] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:39:37,805] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:39:37,828] INFO: Fold 1: MSE = 0.1211, R² = -0.2251
+[2025-07-12 02:39:37,852] INFO: Fold 2: MSE = 0.0884, R² = -0.4417
+[2025-07-12 02:39:37,871] INFO: Fold 3: MSE = 0.1086, R² = -0.2365
+[2025-07-12 02:39:37,872] INFO: Treinamento concluído. Melhor MSE: 0.0884
+[2025-07-12 02:39:37,894] INFO: Fold 1: MSE = 0.1290, R² = -0.0677
+[2025-07-12 02:39:37,916] INFO: Fold 2: MSE = 0.0948, R² = -0.6211
+[2025-07-12 02:39:37,943] INFO: Fold 3: MSE = 0.0998, R² = -0.5073
+[2025-07-12 02:39:37,965] INFO: Fold 4: MSE = 0.1426, R² = -0.3960
+[2025-07-12 02:39:37,988] INFO: Fold 5: MSE = 0.0643, R² = -0.1569
+[2025-07-12 02:39:37,988] INFO: Treinamento concluído. Melhor MSE: 0.0643
+[2025-07-12 02:39:38,021] INFO: Avaliação do modelo: MSE=0.0896, R²=-0.0551
+[2025-07-12 02:39:38,122] INFO: Avaliação do modelo: MSE=0.0906, R²=0.7617
+[2025-07-12 02:39:38,318] ERROR: Erro ao avaliar modelo: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 114, in evaluate_model
+    y_pred = model.predict(X_test)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py", line 1743, in predict
+    check_is_fitted(self)
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1754, in check_is_fitted
+    raise NotFittedError(msg % {"name": type(estimator).__name__})
+sklearn.exceptions.NotFittedError: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+[2025-07-12 02:39:38,519] INFO: Fold 1: MSE = 31697815.1888, R² = -0.6839
+[2025-07-12 02:39:38,538] INFO: Fold 2: MSE = 39154318.4312, R² = -1.8290
+[2025-07-12 02:39:38,538] INFO: Treinamento concluído. Melhor MSE: 31697815.1888
+[2025-07-12 02:39:38,540] INFO: Avaliação do modelo: MSE=35528131.1739, R²=-0.6820
+[2025-07-12 02:40:01,207] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'close'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'close'
+[2025-07-12 02:40:01,259] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:40:01,286] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:40:01,286] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:40:01,317] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:40:01,337] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:40:01,337] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:40:01,361] INFO: Fold 1: MSE = 0.1211, R² = -0.2251
+[2025-07-12 02:40:01,394] INFO: Fold 2: MSE = 0.0884, R² = -0.4417
+[2025-07-12 02:40:01,422] INFO: Fold 3: MSE = 0.1086, R² = -0.2365
+[2025-07-12 02:40:01,423] INFO: Treinamento concluído. Melhor MSE: 0.0884
+[2025-07-12 02:40:01,452] INFO: Fold 1: MSE = 0.1290, R² = -0.0677
+[2025-07-12 02:40:01,502] INFO: Fold 2: MSE = 0.0948, R² = -0.6211
+[2025-07-12 02:40:01,531] INFO: Fold 3: MSE = 0.0998, R² = -0.5073
+[2025-07-12 02:40:01,560] INFO: Fold 4: MSE = 0.1426, R² = -0.3960
+[2025-07-12 02:40:01,586] INFO: Fold 5: MSE = 0.0643, R² = -0.1569
+[2025-07-12 02:40:01,587] INFO: Treinamento concluído. Melhor MSE: 0.0643
+[2025-07-12 02:40:01,634] INFO: Avaliação do modelo: MSE=0.0896, R²=-0.0551
+[2025-07-12 02:40:01,807] INFO: Avaliação do modelo: MSE=0.0906, R²=0.7617
+[2025-07-12 02:40:02,253] ERROR: Erro ao avaliar modelo: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 114, in evaluate_model
+    y_pred = model.predict(X_test)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py", line 1743, in predict
+    check_is_fitted(self)
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1754, in check_is_fitted
+    raise NotFittedError(msg % {"name": type(estimator).__name__})
+sklearn.exceptions.NotFittedError: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+[2025-07-12 02:40:02,483] INFO: Fold 1: MSE = 31697815.1888, R² = -0.6839
+[2025-07-12 02:40:02,509] INFO: Fold 2: MSE = 39154318.4312, R² = -1.8290
+[2025-07-12 02:40:02,509] INFO: Treinamento concluído. Melhor MSE: 31697815.1888
+[2025-07-12 02:40:02,511] INFO: Avaliação do modelo: MSE=35528131.1739, R²=-0.6820
+[2025-07-12 02:44:16,080] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'close'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'close'
+[2025-07-12 02:44:16,122] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:44:16,137] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:44:16,137] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:44:16,156] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 02:44:16,172] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 02:44:16,172] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 02:44:16,266] INFO: Fold 1: MSE = 0.1211, R² = -0.2251
+[2025-07-12 02:44:16,283] INFO: Fold 2: MSE = 0.0884, R² = -0.4417
+[2025-07-12 02:44:16,302] INFO: Fold 3: MSE = 0.1086, R² = -0.2365
+[2025-07-12 02:44:16,303] INFO: Treinamento concluído. Melhor MSE: 0.0884
+[2025-07-12 02:44:16,322] INFO: Fold 1: MSE = 0.1290, R² = -0.0677
+[2025-07-12 02:44:16,344] INFO: Fold 2: MSE = 0.0948, R² = -0.6211
+[2025-07-12 02:44:16,369] INFO: Fold 3: MSE = 0.0998, R² = -0.5073
+[2025-07-12 02:44:16,390] INFO: Fold 4: MSE = 0.1426, R² = -0.3960
+[2025-07-12 02:44:16,410] INFO: Fold 5: MSE = 0.0643, R² = -0.1569
+[2025-07-12 02:44:16,410] INFO: Treinamento concluído. Melhor MSE: 0.0643
+[2025-07-12 02:44:16,440] INFO: Avaliação do modelo: MSE=0.0896, R²=-0.0551
+[2025-07-12 02:44:16,524] INFO: Avaliação do modelo: MSE=0.0906, R²=0.7617
+[2025-07-12 02:44:16,696] ERROR: Erro ao avaliar modelo: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 114, in evaluate_model
+    y_pred = model.predict(X_test)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py", line 1743, in predict
+    check_is_fitted(self)
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1754, in check_is_fitted
+    raise NotFittedError(msg % {"name": type(estimator).__name__})
+sklearn.exceptions.NotFittedError: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+[2025-07-12 02:44:16,792] INFO: Fold 1: MSE = 31697815.1888, R² = -0.6839
+[2025-07-12 02:44:16,815] INFO: Fold 2: MSE = 39154318.4312, R² = -1.8290
+[2025-07-12 02:44:16,816] INFO: Treinamento concluído. Melhor MSE: 31697815.1888
+[2025-07-12 02:44:16,818] INFO: Avaliação do modelo: MSE=35528131.1739, R²=-0.6820
+[2025-07-12 03:04:21,268] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'close'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'close'
+[2025-07-12 03:04:21,312] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 03:04:21,337] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 03:04:21,338] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 03:04:21,372] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-12 03:04:21,397] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-12 03:04:21,397] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-12 03:04:21,419] INFO: Fold 1: MSE = 0.1211, R² = -0.2251
+[2025-07-12 03:04:21,440] INFO: Fold 2: MSE = 0.0884, R² = -0.4417
+[2025-07-12 03:04:21,466] INFO: Fold 3: MSE = 0.1086, R² = -0.2365
+[2025-07-12 03:04:21,467] INFO: Treinamento concluído. Melhor MSE: 0.0884
+[2025-07-12 03:04:21,494] INFO: Fold 1: MSE = 0.1290, R² = -0.0677
+[2025-07-12 03:04:21,513] INFO: Fold 2: MSE = 0.0948, R² = -0.6211
+[2025-07-12 03:04:21,537] INFO: Fold 3: MSE = 0.0998, R² = -0.5073
+[2025-07-12 03:04:21,558] INFO: Fold 4: MSE = 0.1426, R² = -0.3960
+[2025-07-12 03:04:21,579] INFO: Fold 5: MSE = 0.0643, R² = -0.1569
+[2025-07-12 03:04:21,579] INFO: Treinamento concluído. Melhor MSE: 0.0643
+[2025-07-12 03:04:21,612] INFO: Avaliação do modelo: MSE=0.0896, R²=-0.0551
+[2025-07-12 03:04:21,713] INFO: Avaliação do modelo: MSE=0.0906, R²=0.7617
+[2025-07-12 03:04:21,889] ERROR: Erro ao avaliar modelo: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 114, in evaluate_model
+    y_pred = model.predict(X_test)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/neural_network/_multilayer_perceptron.py", line 1743, in predict
+    check_is_fitted(self)
+  File "/root/miniconda3/envs/projeto_final_marcelo/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1754, in check_is_fitted
+    raise NotFittedError(msg % {"name": type(estimator).__name__})
+sklearn.exceptions.NotFittedError: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+[2025-07-12 03:04:22,041] INFO: Fold 1: MSE = 31697815.1888, R² = -0.6839
+[2025-07-12 03:04:22,097] INFO: Fold 2: MSE = 39154318.4312, R² = -1.8290
+[2025-07-12 03:04:22,099] INFO: Treinamento concluído. Melhor MSE: 31697815.1888
+[2025-07-12 03:04:22,102] INFO: Avaliação do modelo: MSE=35528131.1739, R²=-0.6820
+[2025-07-13 16:00:34,724] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "pandas/_libs/index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7096, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'close'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/lib/python3.13/site-packages/pandas/core/frame.py", line 4107, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/root/miniconda3/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3819, in get_loc
+    raise KeyError(key) from err
+KeyError: 'close'
+[2025-07-13 16:00:34,803] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-13 16:00:34,845] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-13 16:00:34,846] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-13 16:00:34,898] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-13 16:00:34,941] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-13 16:00:34,941] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-13 16:00:34,994] INFO: Fold 1: MSE = 0.1211, R² = -0.2251
+[2025-07-13 16:00:35,046] INFO: Fold 2: MSE = 0.0884, R² = -0.4417
+[2025-07-13 16:00:35,097] INFO: Fold 3: MSE = 0.1086, R² = -0.2365
+[2025-07-13 16:00:35,097] INFO: Treinamento concluído. Melhor MSE: 0.0884
+[2025-07-13 16:00:35,156] INFO: Fold 1: MSE = 0.1290, R² = -0.0677
+[2025-07-13 16:00:35,219] INFO: Fold 2: MSE = 0.0948, R² = -0.6211
+[2025-07-13 16:00:35,273] INFO: Fold 3: MSE = 0.0998, R² = -0.5073
+[2025-07-13 16:00:35,329] INFO: Fold 4: MSE = 0.1426, R² = -0.3960
+[2025-07-13 16:00:35,382] INFO: Fold 5: MSE = 0.0643, R² = -0.1569
+[2025-07-13 16:00:35,383] INFO: Treinamento concluído. Melhor MSE: 0.0643
+[2025-07-13 16:00:35,424] INFO: Avaliação do modelo: MSE=0.0896, R²=-0.0551
+[2025-07-13 16:00:35,551] INFO: Avaliação do modelo: MSE=0.0906, R²=0.7617
+[2025-07-13 16:00:35,685] ERROR: Erro ao avaliar modelo: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 114, in evaluate_model
+    y_pred = model.predict(X_test)
+  File "/root/miniconda3/lib/python3.13/site-packages/sklearn/neural_network/_multilayer_perceptron.py", line 1743, in predict
+    check_is_fitted(self)
+    ~~~~~~~~~~~~~~~^^^^^^
+  File "/root/miniconda3/lib/python3.13/site-packages/sklearn/utils/validation.py", line 1754, in check_is_fitted
+    raise NotFittedError(msg % {"name": type(estimator).__name__})
+sklearn.exceptions.NotFittedError: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+[2025-07-13 16:00:35,858] INFO: Fold 1: MSE = 31697815.1888, R² = -0.6839
+[2025-07-13 16:00:35,902] INFO: Fold 2: MSE = 39154318.4312, R² = -1.8290
+[2025-07-13 16:00:35,902] INFO: Treinamento concluído. Melhor MSE: 31697815.1888
+[2025-07-13 16:00:35,904] INFO: Avaliação do modelo: MSE=35528131.1739, R²=-0.6820
+[2025-07-13 16:00:50,922] ERROR: Erro ao preparar features: 'close'
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "pandas/_libs/index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7096, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'close'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 33, in prepare_features
+    df[f'lag_{i}'] = df['close'].shift(i)
+                     ~~^^^^^^^^^
+  File "/root/miniconda3/lib/python3.13/site-packages/pandas/core/frame.py", line 4107, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "/root/miniconda3/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 3819, in get_loc
+    raise KeyError(key) from err
+KeyError: 'close'
+[2025-07-13 16:00:50,997] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-13 16:00:51,036] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-13 16:00:51,036] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-13 16:00:51,081] INFO: Fold 1: MSE = 0.1061, R² = -0.2445
+[2025-07-13 16:00:51,116] INFO: Fold 2: MSE = 0.1100, R² = -0.3178
+[2025-07-13 16:00:51,116] INFO: Treinamento concluído. Melhor MSE: 0.1061
+[2025-07-13 16:00:51,160] INFO: Fold 1: MSE = 0.1211, R² = -0.2251
+[2025-07-13 16:00:51,205] INFO: Fold 2: MSE = 0.0884, R² = -0.4417
+[2025-07-13 16:00:51,251] INFO: Fold 3: MSE = 0.1086, R² = -0.2365
+[2025-07-13 16:00:51,251] INFO: Treinamento concluído. Melhor MSE: 0.0884
+[2025-07-13 16:00:51,306] INFO: Fold 1: MSE = 0.1290, R² = -0.0677
+[2025-07-13 16:00:51,356] INFO: Fold 2: MSE = 0.0948, R² = -0.6211
+[2025-07-13 16:00:51,409] INFO: Fold 3: MSE = 0.0998, R² = -0.5073
+[2025-07-13 16:00:51,462] INFO: Fold 4: MSE = 0.1426, R² = -0.3960
+[2025-07-13 16:00:51,514] INFO: Fold 5: MSE = 0.0643, R² = -0.1569
+[2025-07-13 16:00:51,515] INFO: Treinamento concluído. Melhor MSE: 0.0643
+[2025-07-13 16:00:51,554] INFO: Avaliação do modelo: MSE=0.0896, R²=-0.0551
+[2025-07-13 16:00:51,666] INFO: Avaliação do modelo: MSE=0.0906, R²=0.7617
+[2025-07-13 16:00:51,754] ERROR: Erro ao avaliar modelo: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+Traceback (most recent call last):
+  File "/home/projeto_final_marcelo/src/modules/models.py", line 114, in evaluate_model
+    y_pred = model.predict(X_test)
+  File "/root/miniconda3/lib/python3.13/site-packages/sklearn/neural_network/_multilayer_perceptron.py", line 1743, in predict
+    check_is_fitted(self)
+    ~~~~~~~~~~~~~~~^^^^^^
+  File "/root/miniconda3/lib/python3.13/site-packages/sklearn/utils/validation.py", line 1754, in check_is_fitted
+    raise NotFittedError(msg % {"name": type(estimator).__name__})
+sklearn.exceptions.NotFittedError: This MLPRegressor instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+[2025-07-13 16:00:52,038] INFO: Fold 1: MSE = 31697815.1888, R² = -0.6839
+[2025-07-13 16:00:52,103] INFO: Fold 2: MSE = 39154318.4312, R² = -1.8290
+[2025-07-13 16:00:52,103] INFO: Treinamento concluído. Melhor MSE: 31697815.1888
+[2025-07-13 16:00:52,105] INFO: Avaliação do modelo: MSE=35528131.1739, R²=-0.6820
+[2025-07-13 16:15:57,268] INFO: Fold 1: MSE = 1.0778, R² = 0.9567
+[2025-07-13 16:15:57,319] INFO: Fold 2: MSE = 0.8415, R² = 0.9766
+[2025-07-13 16:15:57,320] INFO: Treinamento concluído. Melhor MSE: 0.8415
+[2025-07-13 16:15:57,406] INFO: Fold 1: MSE = 1.0778, R² = 0.9567
+[2025-07-13 16:15:57,473] INFO: Fold 2: MSE = 0.8415, R² = 0.9766
+[2025-07-13 16:15:57,473] INFO: Treinamento concluído. Melhor MSE: 0.8415
+[2025-07-13 16:15:57,517] INFO: Fold 1: MSE = 1.0423, R² = 0.9710
+[2025-07-13 16:15:57,562] INFO: Fold 2: MSE = 0.7678, R² = 0.9520
+[2025-07-13 16:15:57,607] INFO: Fold 3: MSE = 1.2921, R² = nan
+[2025-07-13 16:15:57,607] INFO: Treinamento concluído. Melhor MSE: 0.7678
+[2025-07-13 16:15:57,651] INFO: Fold 1: MSE = 1.0028, R² = nan
+[2025-07-13 16:15:57,692] INFO: Fold 2: MSE = 1.0236, R² = nan
+[2025-07-13 16:15:57,729] INFO: Fold 3: MSE = 1.2042, R² = nan
+[2025-07-13 16:15:57,775] INFO: Fold 4: MSE = 0.5306, R² = nan
+[2025-07-13 16:15:57,817] INFO: Fold 5: MSE = 1.2921, R² = nan
+[2025-07-13 16:15:57,818] INFO: Treinamento concluído. Melhor MSE: 0.5306
+[2025-07-13 16:15:57,863] INFO: Avaliação do modelo: MSE=308.2012, R²=-8.6313
+[2025-07-13 16:15:58,138] INFO: Avaliação do modelo: MSE=1.1767, R²=0.9632
+[2025-07-13 16:16:06,582] INFO: Fold 1: MSE = 1.0778, R² = 0.9567
+[2025-07-13 16:16:06,625] INFO: Fold 2: MSE = 0.8415, R² = 0.9766
+[2025-07-13 16:16:06,625] INFO: Treinamento concluído. Melhor MSE: 0.8415
+[2025-07-13 16:16:06,670] INFO: Fold 1: MSE = 1.0778, R² = 0.9567
+[2025-07-13 16:16:06,716] INFO: Fold 2: MSE = 0.8415, R² = 0.9766
+[2025-07-13 16:16:06,717] INFO: Treinamento concluído. Melhor MSE: 0.8415
+[2025-07-13 16:16:06,759] INFO: Fold 1: MSE = 1.0423, R² = 0.9710
+[2025-07-13 16:16:06,803] INFO: Fold 2: MSE = 0.7678, R² = 0.9520
+[2025-07-13 16:16:06,848] INFO: Fold 3: MSE = 1.2921, R² = nan
+[2025-07-13 16:16:06,848] INFO: Treinamento concluído. Melhor MSE: 0.7678
+[2025-07-13 16:16:06,890] INFO: Fold 1: MSE = 1.0028, R² = nan
+[2025-07-13 16:16:06,930] INFO: Fold 2: MSE = 1.0236, R² = nan
+[2025-07-13 16:16:06,969] INFO: Fold 3: MSE = 1.2042, R² = nan
+[2025-07-13 16:16:07,009] INFO: Fold 4: MSE = 0.5306, R² = nan
+[2025-07-13 16:16:07,048] INFO: Fold 5: MSE = 1.2921, R² = nan
+[2025-07-13 16:16:07,048] INFO: Treinamento concluído. Melhor MSE: 0.5306
+[2025-07-13 16:16:07,096] INFO: Avaliação do modelo: MSE=308.2012, R²=-8.6313
+[2025-07-13 16:16:07,308] INFO: Avaliação do modelo: MSE=1.1767, R²=0.9632
+[2025-07-13 16:17:56,850] INFO: Fold 1: MSE = 1.0778, R² = 0.9567
+[2025-07-13 16:17:56,940] INFO: Fold 2: MSE = 0.8415, R² = 0.9766
+[2025-07-13 16:17:56,940] INFO: Treinamento concluído. Melhor MSE: 0.8415
+[2025-07-13 16:17:57,031] INFO: Fold 1: MSE = 1.0778, R² = 0.9567
+[2025-07-13 16:17:57,097] INFO: Fold 2: MSE = 0.8415, R² = 0.9766
+[2025-07-13 16:17:57,098] INFO: Treinamento concluído. Melhor MSE: 0.8415
+[2025-07-13 16:17:57,134] INFO: Fold 1: MSE = 1.0423, R² = 0.9710
+[2025-07-13 16:17:57,184] INFO: Fold 2: MSE = 0.7678, R² = 0.9520
+[2025-07-13 16:17:57,223] INFO: Fold 3: MSE = 1.2921, R² = nan
+[2025-07-13 16:17:57,223] INFO: Treinamento concluído. Melhor MSE: 0.7678
+[2025-07-13 16:17:57,259] INFO: Fold 1: MSE = 1.0028, R² = nan
+[2025-07-13 16:17:57,288] INFO: Fold 2: MSE = 1.0236, R² = nan
+[2025-07-13 16:17:57,322] INFO: Fold 3: MSE = 1.2042, R² = nan
+[2025-07-13 16:17:57,357] INFO: Fold 4: MSE = 0.5306, R² = nan
+[2025-07-13 16:17:57,406] INFO: Fold 5: MSE = 1.2921, R² = nan
+[2025-07-13 16:17:57,407] INFO: Treinamento concluído. Melhor MSE: 0.5306
+[2025-07-13 16:17:57,459] INFO: Avaliação do modelo: MSE=308.2012, R²=-8.6313
+[2025-07-13 16:17:57,711] INFO: Avaliação do modelo: MSE=1.1767, R²=0.9632
+[2025-07-13 16:18:29,336] INFO: Avaliação do modelo: MSE=1.1767, R²=0.9632
+[2025-07-13 16:19:06,991] INFO: Avaliação do modelo: MSE=1.1767, R²=0.9632
+[2025-07-13 16:19:12,721] INFO: Fold 1: MSE = 1.0778, R² = 0.9567
+[2025-07-13 16:19:12,769] INFO: Fold 2: MSE = 0.8415, R² = 0.9766
+[2025-07-13 16:19:12,769] INFO: Treinamento concluído. Melhor MSE: 0.8415
+[2025-07-13 16:19:12,808] INFO: Fold 1: MSE = 1.0778, R² = 0.9567
+[2025-07-13 16:19:12,910] INFO: Fold 2: MSE = 0.8415, R² = 0.9766
+[2025-07-13 16:19:12,912] INFO: Treinamento concluído. Melhor MSE: 0.8415
+[2025-07-13 16:19:12,989] INFO: Fold 1: MSE = 1.0423, R² = 0.9710
+[2025-07-13 16:19:13,031] INFO: Fold 2: MSE = 0.7678, R² = 0.9520
+[2025-07-13 16:19:13,077] INFO: Fold 3: MSE = 1.2921, R² = nan
+[2025-07-13 16:19:13,078] INFO: Treinamento concluído. Melhor MSE: 0.7678
+[2025-07-13 16:19:13,118] INFO: Fold 1: MSE = 1.0028, R² = nan
+[2025-07-13 16:19:13,169] INFO: Fold 2: MSE = 1.0236, R² = nan
+[2025-07-13 16:19:13,209] INFO: Fold 3: MSE = 1.2042, R² = nan
+[2025-07-13 16:19:13,249] INFO: Fold 4: MSE = 0.5306, R² = nan
+[2025-07-13 16:19:13,292] INFO: Fold 5: MSE = 1.2921, R² = nan
+[2025-07-13 16:19:13,292] INFO: Treinamento concluído. Melhor MSE: 0.5306
+[2025-07-13 16:19:13,348] INFO: Avaliação do modelo: MSE=308.2012, R²=-8.6313
+[2025-07-13 16:19:13,548] INFO: Avaliação do modelo: MSE=1.1767, R²=0.9632
+[2025-07-13 16:19:27,213] INFO: Fold 1: MSE = 1.0778, R² = 0.9567
+[2025-07-13 16:19:27,259] INFO: Fold 2: MSE = 0.8415, R² = 0.9766
+[2025-07-13 16:19:27,259] INFO: Treinamento concluído. Melhor MSE: 0.8415
+[2025-07-13 16:19:27,308] INFO: Fold 1: MSE = 1.0778, R² = 0.9567
+[2025-07-13 16:19:27,352] INFO: Fold 2: MSE = 0.8415, R² = 0.9766
+[2025-07-13 16:19:27,352] INFO: Treinamento concluído. Melhor MSE: 0.8415
+[2025-07-13 16:19:27,396] INFO: Fold 1: MSE = 1.0423, R² = 0.9710
+[2025-07-13 16:19:27,427] INFO: Fold 2: MSE = 0.7678, R² = 0.9520
+[2025-07-13 16:19:27,458] INFO: Fold 3: MSE = 1.2921, R² = nan
+[2025-07-13 16:19:27,459] INFO: Treinamento concluído. Melhor MSE: 0.7678
+[2025-07-13 16:19:27,495] INFO: Fold 1: MSE = 1.0028, R² = nan
+[2025-07-13 16:19:27,538] INFO: Fold 2: MSE = 1.0236, R² = nan
+[2025-07-13 16:19:27,584] INFO: Fold 3: MSE = 1.2042, R² = nan
+[2025-07-13 16:19:27,631] INFO: Fold 4: MSE = 0.5306, R² = nan
+[2025-07-13 16:19:27,665] INFO: Fold 5: MSE = 1.2921, R² = nan
+[2025-07-13 16:19:27,666] INFO: Treinamento concluído. Melhor MSE: 0.5306
+[2025-07-13 16:19:27,711] INFO: Avaliação do modelo: MSE=308.2012, R²=-8.6313
+[2025-07-13 16:19:27,917] INFO: Avaliação do modelo: MSE=1.1767, R²=0.9632
+[2025-07-13 18:57:08,537] INFO: Fold 1: MSE = 2462584.7816, R² = 0.9970
+[2025-07-13 18:57:09,163] INFO: Fold 2: MSE = 1249793.5924, R² = 0.9981
+[2025-07-13 18:57:09,578] INFO: Fold 3: MSE = 2175980.3419, R² = 0.9968
+[2025-07-13 18:57:10,224] INFO: Fold 4: MSE = 1644408.1729, R² = 0.9977
+[2025-07-13 18:57:10,637] INFO: Fold 5: MSE = 1642475.6878, R² = 0.9978
+[2025-07-13 18:57:10,637] INFO: Treinamento concluído. Melhor MSE: 1249793.5924
+[2025-07-13 18:57:10,642] INFO: Avaliação do modelo: MSE=1600884.0425, R²=0.9980

@@ -1,0 +1,9 @@
+[flake8]
+max-line-length = 130
+
+exclude =
+    .git,
+    __pycache__
+
+per-file-ignores =
+    main.py: E402

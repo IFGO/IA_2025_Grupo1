@@ -1,0 +1,522 @@
+[2025-07-11 23:48:47,626] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-11 23:48:48,573] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-11 23:48:48,986] INFO: Gráfico linha salvo para ADA em: figures/ADA_linha_resumo.png
+[2025-07-11 23:48:49,591] INFO: Gráfico linha salvo para AVAX em: figures/AVAX_linha_resumo.png
+[2025-07-11 23:48:49,986] INFO: Gráfico linha salvo para BNB em: figures/BNB_linha_resumo.png
+[2025-07-11 23:48:50,327] INFO: Gráfico linha salvo para BTC em: figures/BTC_linha_resumo.png
+[2025-07-11 23:48:50,778] INFO: Gráfico linha salvo para DOGE em: figures/DOGE_linha_resumo.png
+[2025-07-11 23:48:51,138] INFO: Gráfico linha salvo para DOT em: figures/DOT_linha_resumo.png
+[2025-07-11 23:48:51,446] INFO: Gráfico linha salvo para ETH em: figures/ETH_linha_resumo.png
+[2025-07-11 23:48:51,918] INFO: Gráfico linha salvo para SHIB em: figures/SHIB_linha_resumo.png
+[2025-07-11 23:48:52,280] INFO: Gráfico linha salvo para SOL em: figures/SOL_linha_resumo.png
+[2025-07-11 23:48:52,622] INFO: Gráfico linha salvo para XRP em: figures/XRP_linha_resumo.png
+[2025-07-11 23:48:56,983] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 01:15:45,522] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 01:15:45,883] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 01:15:46,290] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 01:15:46,593] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 01:15:46,855] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 01:15:47,152] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 01:15:47,442] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 01:15:47,649] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 01:15:47,886] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 01:15:48,130] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 01:15:48,355] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 01:15:48,593] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 01:15:51,311] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 01:20:08,288] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 01:20:08,732] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 01:20:09,398] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 01:20:09,822] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 01:20:10,402] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 01:20:10,882] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 01:20:11,367] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 01:20:11,778] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 01:20:12,203] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 01:20:12,630] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 01:20:13,204] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 01:20:13,692] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 01:20:18,446] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 01:20:34,812] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 01:20:35,164] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 01:20:35,342] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 01:20:35,535] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 01:20:35,705] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 01:20:35,877] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 01:20:36,052] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 01:20:36,198] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 01:20:36,360] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 01:20:36,535] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 01:20:36,685] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 01:20:36,875] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 01:20:39,180] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 01:21:41,113] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 01:21:41,549] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 01:21:42,036] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 01:21:42,543] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 01:21:42,974] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 01:21:43,468] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 01:21:43,865] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 01:21:44,291] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 01:21:44,706] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 01:21:45,108] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 01:21:45,479] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 01:21:45,990] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 01:21:49,766] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 01:28:49,396] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 01:28:49,899] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 01:28:50,419] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 01:28:50,866] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 01:28:51,354] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 01:28:51,914] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 01:28:52,372] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 01:28:52,826] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 01:28:53,278] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 01:28:53,724] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 01:28:54,128] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 01:28:54,588] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 01:28:58,129] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 01:30:40,254] INFO: Iniciando geração do boxplot...
+[2025-07-12 01:30:40,254] INFO: Criptomoedas disponíveis: ['ADA', 'AVAX', 'BNB', 'BTC', 'DOGE', 'DOT', 'ETH', 'SHIB', 'SOL', 'XRP']
+[2025-07-12 01:30:40,256] INFO: Total de dados coletados para o boxplot: 22777
+[2025-07-12 01:30:40,264] INFO: DataFrame do boxplot criado com shape: (22777, 2)
+[2025-07-12 01:30:40,778] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 01:30:41,210] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 01:30:41,711] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 01:30:42,103] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 01:30:42,525] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 01:30:42,948] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 01:30:43,394] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 01:30:43,880] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 01:30:44,440] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 01:30:44,843] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 01:30:45,270] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 01:30:45,708] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 01:30:50,184] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 01:32:54,600] INFO: Iniciando geração do boxplot...
+[2025-07-12 01:32:54,600] INFO: Criptomoedas disponíveis: ['ADA', 'AVAX', 'BNB', 'BTC', 'DOGE', 'DOT', 'ETH', 'SHIB', 'SOL', 'XRP']
+[2025-07-12 01:32:54,602] INFO: Total de dados coletados para o boxplot: 22777
+[2025-07-12 01:32:54,610] INFO: DataFrame do boxplot criado com shape: (22777, 2)
+[2025-07-12 01:32:55,109] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 01:32:55,531] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 01:32:55,955] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 01:32:56,446] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 01:32:56,907] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 01:32:57,423] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 01:32:57,954] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 01:32:58,375] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 01:32:58,821] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 01:32:59,335] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 01:32:59,784] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 01:33:00,243] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 01:33:04,791] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 01:35:13,000] INFO: Iniciando geração do boxplot...
+[2025-07-12 01:35:13,000] INFO: Criptomoedas disponíveis: ['ADA', 'AVAX', 'BNB', 'BTC', 'DOGE', 'DOT', 'ETH', 'SHIB', 'SOL', 'XRP']
+[2025-07-12 01:35:13,003] INFO: Total de dados coletados para o boxplot: 22777
+[2025-07-12 01:35:13,010] INFO: DataFrame do boxplot criado com shape: (22777, 2)
+[2025-07-12 01:35:13,501] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 01:35:13,950] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 01:35:14,392] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 01:35:14,798] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 01:35:15,204] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 01:35:15,704] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 01:35:16,124] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 01:35:16,588] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 01:35:16,982] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 01:35:17,433] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 01:35:17,837] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 01:35:18,337] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 01:35:22,212] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 01:36:26,116] INFO: Iniciando geração do boxplot...
+[2025-07-12 01:36:26,116] INFO: Criptomoedas disponíveis: ['ADA', 'AVAX', 'BNB', 'BTC', 'DOGE', 'DOT', 'ETH', 'SHIB', 'SOL', 'XRP']
+[2025-07-12 01:36:26,118] INFO: Total de dados coletados para o boxplot: 22777
+[2025-07-12 01:36:26,125] INFO: DataFrame do boxplot criado com shape: (22777, 2)
+[2025-07-12 01:36:26,627] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 01:36:27,295] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 01:36:27,734] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 01:36:28,132] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 01:36:28,532] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 01:36:28,937] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 01:36:29,313] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 01:36:29,712] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 01:36:30,201] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 01:36:30,588] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 01:36:31,016] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 01:36:31,409] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 01:36:34,702] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 01:38:09,044] INFO: Iniciando geração do boxplot...
+[2025-07-12 01:38:09,044] INFO: Criptomoedas disponíveis: ['ADA', 'AVAX', 'BNB', 'BTC', 'DOGE', 'DOT', 'ETH', 'SHIB', 'SOL', 'XRP']
+[2025-07-12 01:38:09,047] INFO: Total de dados coletados para o boxplot: 22777
+[2025-07-12 01:38:09,056] INFO: DataFrame do boxplot criado com shape: (22777, 2)
+[2025-07-12 01:38:09,595] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 01:38:10,080] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 01:38:10,559] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 01:38:11,009] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 01:38:11,599] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 01:38:12,058] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 01:38:12,495] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 01:38:12,911] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 01:38:13,329] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 01:38:13,779] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 01:38:14,301] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 01:38:14,716] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 01:38:18,210] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 02:25:54,815] INFO: Iniciando geração do boxplot...
+[2025-07-12 02:25:54,815] INFO: Criptomoedas disponíveis: ['BTC', 'ETH']
+[2025-07-12 02:25:54,816] INFO: Total de dados coletados para o boxplot: 20
+[2025-07-12 02:25:54,816] INFO: DataFrame do boxplot criado com shape: (20, 2)
+[2025-07-12 02:25:55,338] INFO: Boxplot salvo em: /tmp/pytest-of-root/pytest-9/test_boxplot_creation0/boxplot_fechamento.png
+[2025-07-12 02:25:55,945] INFO: Histograma salvo em: /tmp/pytest-of-root/pytest-9/test_histogram_creation0/histograma_fechamento.png
+[2025-07-12 02:25:56,575] INFO: Gráfico linha salvo para TEST em: /tmp/pytest-of-root/pytest-9/test_line_graph_creation0/TEST_linha_resumo.png
+[2025-07-12 02:30:26,329] INFO: Iniciando geração do boxplot...
+[2025-07-12 02:30:26,329] INFO: Criptomoedas disponíveis: ['BTC', 'ETH']
+[2025-07-12 02:30:26,330] INFO: Total de dados coletados para o boxplot: 20
+[2025-07-12 02:30:26,331] INFO: DataFrame do boxplot criado com shape: (20, 2)
+[2025-07-12 02:30:26,825] INFO: Boxplot salvo em: /tmp/pytest-of-root/pytest-10/test_boxplot_creation0/boxplot_fechamento.png
+[2025-07-12 02:30:27,476] INFO: Histograma salvo em: /tmp/pytest-of-root/pytest-10/test_histogram_creation0/histograma_fechamento.png
+[2025-07-12 02:30:28,004] INFO: Gráfico linha salvo para TEST em: /tmp/pytest-of-root/pytest-10/test_line_graph_creation0/TEST_linha_resumo.png
+[2025-07-12 02:30:31,939] INFO: Iniciando geração do boxplot...
+[2025-07-12 02:30:31,940] INFO: Criptomoedas disponíveis: ['BTC', 'ETH']
+[2025-07-12 02:30:31,940] INFO: Total de dados coletados para o boxplot: 20
+[2025-07-12 02:30:31,943] INFO: DataFrame do boxplot criado com shape: (20, 2)
+[2025-07-12 02:30:32,544] INFO: Boxplot salvo em: /tmp/pytest-of-root/pytest-11/test_boxplot_creation0/boxplot_fechamento.png
+[2025-07-12 02:30:33,039] INFO: Histograma salvo em: /tmp/pytest-of-root/pytest-11/test_histogram_creation0/histograma_fechamento.png
+[2025-07-12 02:30:33,496] INFO: Gráfico linha salvo para TEST em: /tmp/pytest-of-root/pytest-11/test_line_graph_creation0/TEST_linha_resumo.png
+[2025-07-12 02:32:57,034] INFO: Iniciando geração do boxplot...
+[2025-07-12 02:32:57,035] INFO: Criptomoedas disponíveis: ['BTC', 'ETH']
+[2025-07-12 02:32:57,035] INFO: Total de dados coletados para o boxplot: 20
+[2025-07-12 02:32:57,036] INFO: DataFrame do boxplot criado com shape: (20, 2)
+[2025-07-12 02:32:57,599] INFO: Boxplot salvo em: /tmp/pytest-of-root/pytest-12/test_boxplot_creation0/boxplot_fechamento.png
+[2025-07-12 02:32:58,132] INFO: Histograma salvo em: /tmp/pytest-of-root/pytest-12/test_histogram_creation0/histograma_fechamento.png
+[2025-07-12 02:32:58,629] INFO: Gráfico linha salvo para TEST em: /tmp/pytest-of-root/pytest-12/test_line_graph_creation0/TEST_linha_resumo.png
+[2025-07-12 02:37:23,900] INFO: Iniciando geração do boxplot...
+[2025-07-12 02:37:23,900] INFO: Criptomoedas disponíveis: ['BTC', 'ETH']
+[2025-07-12 02:37:23,900] INFO: Total de dados coletados para o boxplot: 20
+[2025-07-12 02:37:23,901] INFO: DataFrame do boxplot criado com shape: (20, 2)
+[2025-07-12 02:37:24,333] INFO: Boxplot salvo em: /tmp/pytest-of-root/pytest-13/test_boxplot_creation0/boxplot_fechamento.png
+[2025-07-12 02:37:24,870] INFO: Histograma salvo em: /tmp/pytest-of-root/pytest-13/test_histogram_creation0/histograma_fechamento.png
+[2025-07-12 02:37:25,385] INFO: Gráfico linha salvo para TEST em: /tmp/pytest-of-root/pytest-13/test_line_graph_creation0/TEST_linha_resumo.png
+[2025-07-12 02:39:38,646] INFO: Iniciando geração do boxplot...
+[2025-07-12 02:39:38,646] INFO: Criptomoedas disponíveis: ['BTC', 'ETH']
+[2025-07-12 02:39:38,646] INFO: Total de dados coletados para o boxplot: 20
+[2025-07-12 02:39:38,647] INFO: DataFrame do boxplot criado com shape: (20, 2)
+[2025-07-12 02:39:39,165] INFO: Boxplot salvo em: /tmp/pytest-of-root/pytest-14/test_boxplot_creation0/boxplot_fechamento.png
+[2025-07-12 02:39:39,631] INFO: Histograma salvo em: /tmp/pytest-of-root/pytest-14/test_histogram_creation0/histograma_fechamento.png
+[2025-07-12 02:39:40,109] INFO: Gráfico linha salvo para TEST em: /tmp/pytest-of-root/pytest-14/test_line_graph_creation0/TEST_linha_resumo.png
+[2025-07-12 02:40:02,656] INFO: Iniciando geração do boxplot...
+[2025-07-12 02:40:02,657] INFO: Criptomoedas disponíveis: ['BTC', 'ETH']
+[2025-07-12 02:40:02,657] INFO: Total de dados coletados para o boxplot: 20
+[2025-07-12 02:40:02,658] INFO: DataFrame do boxplot criado com shape: (20, 2)
+[2025-07-12 02:40:03,393] INFO: Boxplot salvo em: /tmp/pytest-of-root/pytest-15/test_boxplot_creation0/boxplot_fechamento.png
+[2025-07-12 02:40:03,930] INFO: Histograma salvo em: /tmp/pytest-of-root/pytest-15/test_histogram_creation0/histograma_fechamento.png
+[2025-07-12 02:40:04,509] INFO: Gráfico linha salvo para TEST em: /tmp/pytest-of-root/pytest-15/test_line_graph_creation0/TEST_linha_resumo.png
+[2025-07-12 02:44:16,896] INFO: Iniciando geração do boxplot...
+[2025-07-12 02:44:16,896] INFO: Criptomoedas disponíveis: ['BTC', 'ETH']
+[2025-07-12 02:44:16,896] INFO: Total de dados coletados para o boxplot: 20
+[2025-07-12 02:44:16,897] INFO: DataFrame do boxplot criado com shape: (20, 2)
+[2025-07-12 02:44:17,448] INFO: Boxplot salvo em: /tmp/pytest-of-root/pytest-16/test_boxplot_creation0/boxplot_fechamento.png
+[2025-07-12 02:44:17,923] INFO: Histograma salvo em: /tmp/pytest-of-root/pytest-16/test_histogram_creation0/histograma_fechamento.png
+[2025-07-12 02:44:18,438] INFO: Gráfico linha salvo para TEST em: /tmp/pytest-of-root/pytest-16/test_line_graph_creation0/TEST_linha_resumo.png
+[2025-07-12 03:04:13,669] INFO: Iniciando geração do boxplot...
+[2025-07-12 03:04:13,670] INFO: Criptomoedas disponíveis: ['BTC', 'ETH']
+[2025-07-12 03:04:13,670] INFO: Total de dados coletados para o boxplot: 20
+[2025-07-12 03:04:13,671] INFO: DataFrame do boxplot criado com shape: (20, 2)
+[2025-07-12 03:04:14,245] INFO: Boxplot salvo em: /tmp/pytest-of-root/pytest-17/test_boxplot_creation0/boxplot_fechamento.png
+[2025-07-12 03:04:14,842] INFO: Histograma salvo em: /tmp/pytest-of-root/pytest-17/test_histogram_creation0/histograma_fechamento.png
+[2025-07-12 03:04:15,351] INFO: Gráfico linha salvo para TEST em: /tmp/pytest-of-root/pytest-17/test_line_graph_creation0/TEST_linha_resumo.png
+[2025-07-12 03:04:22,204] INFO: Iniciando geração do boxplot...
+[2025-07-12 03:04:22,204] INFO: Criptomoedas disponíveis: ['BTC', 'ETH']
+[2025-07-12 03:04:22,204] INFO: Total de dados coletados para o boxplot: 20
+[2025-07-12 03:04:22,205] INFO: DataFrame do boxplot criado com shape: (20, 2)
+[2025-07-12 03:04:22,751] INFO: Boxplot salvo em: /tmp/pytest-of-root/pytest-18/test_boxplot_creation0/boxplot_fechamento.png
+[2025-07-12 03:04:23,271] INFO: Histograma salvo em: /tmp/pytest-of-root/pytest-18/test_histogram_creation0/histograma_fechamento.png
+[2025-07-12 03:04:23,771] INFO: Gráfico linha salvo para TEST em: /tmp/pytest-of-root/pytest-18/test_line_graph_creation0/TEST_linha_resumo.png
+[2025-07-12 17:48:20,936] INFO: Iniciando geração do boxplot...
+[2025-07-12 17:48:20,937] INFO: Criptomoedas disponíveis: ['ADA', 'AVAX', 'BNB', 'BTC', 'DOGE', 'DOT', 'ETH', 'SHIB', 'SOL', 'XRP']
+[2025-07-12 17:48:20,940] INFO: Total de dados coletados para o boxplot: 22777
+[2025-07-12 17:48:20,951] INFO: DataFrame do boxplot criado com shape: (22777, 2)
+[2025-07-12 17:48:21,614] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 17:48:22,098] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 17:48:22,534] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 17:48:22,922] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 17:48:23,391] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 17:48:23,786] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 17:48:24,317] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 17:48:24,751] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 17:48:25,180] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 17:48:25,643] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 17:48:26,050] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 17:48:26,472] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 17:48:30,608] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 18:46:34,930] INFO: Iniciando geração do boxplot...
+[2025-07-12 18:46:34,931] INFO: Criptomoedas disponíveis: ['ADA', 'AVAX', 'BNB', 'BTC', 'DOGE', 'DOT', 'ETH', 'SHIB', 'SOL', 'XRP']
+[2025-07-12 18:46:34,933] INFO: Total de dados coletados para o boxplot: 22777
+[2025-07-12 18:46:34,942] INFO: DataFrame do boxplot criado com shape: (22777, 2)
+[2025-07-12 18:46:35,507] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 18:46:36,055] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 18:46:36,784] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 18:46:37,168] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 18:46:37,552] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 18:46:37,954] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 18:46:38,456] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 18:46:39,388] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 18:46:39,877] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 18:46:40,349] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 18:46:40,805] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 18:46:41,330] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 18:46:46,133] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 18:48:54,690] INFO: Iniciando geração do boxplot...
+[2025-07-12 18:48:54,690] INFO: Criptomoedas disponíveis: ['ADA', 'AVAX', 'BNB', 'BTC', 'DOGE', 'DOT', 'ETH', 'SHIB', 'SOL', 'XRP']
+[2025-07-12 18:48:54,703] INFO: Total de dados coletados para o boxplot: 22777
+[2025-07-12 18:48:54,713] INFO: DataFrame do boxplot criado com shape: (22777, 2)
+[2025-07-12 18:48:55,405] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 18:48:56,042] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 18:48:56,669] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 18:48:57,086] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 18:48:57,471] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 18:48:58,142] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 18:48:58,656] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 18:48:59,210] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 18:48:59,656] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 18:49:00,235] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 18:49:00,697] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 18:49:01,216] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 18:49:06,391] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 18:49:27,142] INFO: Iniciando geração do boxplot...
+[2025-07-12 18:49:27,143] INFO: Criptomoedas disponíveis: ['ADA', 'AVAX', 'BNB', 'BTC', 'DOGE', 'DOT', 'ETH', 'SHIB', 'SOL', 'XRP']
+[2025-07-12 18:49:27,148] INFO: Total de dados coletados para o boxplot: 22777
+[2025-07-12 18:49:27,167] INFO: DataFrame do boxplot criado com shape: (22777, 2)
+[2025-07-12 18:49:27,737] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 18:49:28,219] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 18:49:28,702] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 18:49:29,185] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 18:49:29,657] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 18:49:30,221] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 18:49:30,627] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 18:49:31,035] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 18:49:31,455] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 18:49:31,924] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 18:49:32,402] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 18:49:32,857] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 18:49:37,464] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 19:01:39,367] INFO: Iniciando geração do boxplot...
+[2025-07-12 19:01:39,367] INFO: Criptomoedas disponíveis: ['ADA', 'AVAX', 'BNB', 'BTC', 'DOGE', 'DOT', 'ETH', 'SHIB', 'SOL', 'XRP']
+[2025-07-12 19:01:39,370] INFO: Total de dados coletados para o boxplot: 22777
+[2025-07-12 19:01:39,378] INFO: DataFrame do boxplot criado com shape: (22777, 2)
+[2025-07-12 19:01:39,945] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 19:01:40,836] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 19:01:41,285] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 19:01:41,905] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 19:01:42,365] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 19:01:42,932] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 19:01:43,437] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 19:01:43,884] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 19:01:44,384] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 19:01:44,833] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 19:01:45,670] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 19:01:46,130] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 19:01:51,255] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 19:13:59,648] INFO: Iniciando geração do boxplot...
+[2025-07-12 19:13:59,648] INFO: Criptomoedas disponíveis: ['ADA', 'AVAX', 'BNB', 'BTC', 'DOGE', 'DOT', 'ETH', 'SHIB', 'SOL', 'XRP']
+[2025-07-12 19:13:59,651] INFO: Total de dados coletados para o boxplot: 22777
+[2025-07-12 19:13:59,671] INFO: DataFrame do boxplot criado com shape: (22777, 2)
+[2025-07-12 19:14:00,606] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 19:14:01,120] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 19:14:01,879] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 19:14:02,459] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 19:14:03,070] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 19:14:03,574] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 19:14:04,032] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 19:14:04,576] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 19:14:05,267] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 19:14:05,752] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 19:14:06,112] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 19:14:06,497] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 19:14:10,944] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 19:16:12,912] INFO: Iniciando geração do boxplot...
+[2025-07-12 19:16:12,912] INFO: Criptomoedas disponíveis: ['ADA', 'AVAX', 'BNB', 'BTC', 'DOGE', 'DOT', 'ETH', 'SHIB', 'SOL', 'XRP']
+[2025-07-12 19:16:12,918] INFO: Total de dados coletados para o boxplot: 22777
+[2025-07-12 19:16:12,928] INFO: DataFrame do boxplot criado com shape: (22777, 2)
+[2025-07-12 19:16:13,377] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 19:16:13,835] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 19:16:14,275] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 19:16:14,734] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 19:16:15,188] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 19:16:15,601] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 19:16:15,988] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 19:16:16,389] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 19:16:16,832] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 19:16:17,465] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 19:16:17,952] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 19:16:18,453] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 19:16:22,173] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 19:17:53,446] INFO: Iniciando geração do boxplot...
+[2025-07-12 19:17:53,446] INFO: Criptomoedas disponíveis: ['ADA', 'AVAX', 'BNB', 'BTC', 'DOGE', 'DOT', 'ETH', 'SHIB', 'SOL', 'XRP']
+[2025-07-12 19:17:53,453] INFO: Total de dados coletados para o boxplot: 22777
+[2025-07-12 19:17:53,468] INFO: DataFrame do boxplot criado com shape: (22777, 2)
+[2025-07-12 19:17:53,938] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 19:17:54,373] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 19:17:54,884] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 19:17:55,281] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 19:17:55,711] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 19:17:56,177] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 19:17:56,551] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 19:17:56,897] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 19:17:57,394] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 19:17:57,791] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 19:17:58,189] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 19:17:58,680] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 19:18:02,553] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 19:31:53,873] INFO: Iniciando geração do boxplot...
+[2025-07-12 19:31:53,873] INFO: Criptomoedas disponíveis: ['ADA', 'AVAX', 'BNB', 'BTC', 'DOGE', 'DOT', 'ETH', 'SHIB', 'SOL', 'XRP']
+[2025-07-12 19:31:53,876] INFO: Total de dados coletados para o boxplot: 22777
+[2025-07-12 19:31:53,890] INFO: DataFrame do boxplot criado com shape: (22777, 2)
+[2025-07-12 19:31:54,356] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 19:31:54,805] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 19:31:55,238] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 19:31:55,658] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 19:31:56,263] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 19:31:56,790] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 19:31:57,220] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 19:31:57,598] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 19:31:58,056] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 19:31:58,588] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 19:31:58,976] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 19:31:59,481] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 19:32:03,038] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 19:43:08,880] INFO: Iniciando geração do boxplot...
+[2025-07-12 19:43:08,880] INFO: Criptomoedas disponíveis: ['ADA', 'AVAX', 'BNB', 'BTC', 'DOGE', 'DOT', 'ETH', 'SHIB', 'SOL', 'XRP']
+[2025-07-12 19:43:08,882] INFO: Total de dados coletados para o boxplot: 22777
+[2025-07-12 19:43:08,891] INFO: DataFrame do boxplot criado com shape: (22777, 2)
+[2025-07-12 19:43:09,351] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 19:43:09,778] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 19:43:10,272] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 19:43:10,769] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 19:43:11,269] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 19:43:11,637] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 19:43:12,014] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 19:43:12,366] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 19:43:12,770] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 19:43:13,418] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 19:43:13,770] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 19:43:14,114] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 19:43:17,974] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 19:45:11,407] INFO: Iniciando geração do boxplot...
+[2025-07-12 19:45:11,407] INFO: Criptomoedas disponíveis: ['ADA', 'AVAX', 'BNB', 'BTC', 'DOGE', 'DOT', 'ETH', 'SHIB', 'SOL', 'XRP']
+[2025-07-12 19:45:11,410] INFO: Total de dados coletados para o boxplot: 22777
+[2025-07-12 19:45:11,418] INFO: DataFrame do boxplot criado com shape: (22777, 2)
+[2025-07-12 19:45:11,898] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 19:45:12,433] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 19:45:12,923] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 19:45:13,563] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 19:45:14,019] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 19:45:14,579] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 19:45:14,980] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 19:45:15,364] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 19:45:15,805] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 19:45:16,196] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 19:45:16,562] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 19:45:17,036] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 19:45:20,665] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 20:30:30,696] INFO: Iniciando geração do boxplot...
+[2025-07-12 20:30:30,696] INFO: Criptomoedas disponíveis: ['ADA', 'AVAX', 'BNB', 'BTC', 'DOGE', 'DOT', 'ETH', 'SHIB', 'SOL', 'XRP']
+[2025-07-12 20:30:30,700] INFO: Total de dados coletados para o boxplot: 22777
+[2025-07-12 20:30:30,713] INFO: DataFrame do boxplot criado com shape: (22777, 2)
+[2025-07-12 20:30:31,206] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 20:30:31,687] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 20:30:32,067] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 20:30:32,505] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 20:30:33,233] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 20:30:33,664] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 20:30:34,079] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 20:30:34,489] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 20:30:34,940] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 20:30:35,546] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 20:30:35,948] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 20:30:36,457] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 20:30:43,824] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-12 20:31:03,282] INFO: Iniciando geração do boxplot...
+[2025-07-12 20:31:03,283] INFO: Criptomoedas disponíveis: ['ADA', 'AVAX', 'BNB', 'BTC', 'DOGE', 'DOT', 'ETH', 'SHIB', 'SOL', 'XRP']
+[2025-07-12 20:31:03,286] INFO: Total de dados coletados para o boxplot: 22777
+[2025-07-12 20:31:03,297] INFO: DataFrame do boxplot criado com shape: (22777, 2)
+[2025-07-12 20:31:03,862] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-12 20:31:04,649] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-12 20:31:05,205] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-12 20:31:05,628] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-12 20:31:06,080] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-12 20:31:06,612] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-12 20:31:07,221] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-12 20:31:07,614] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-12 20:31:08,083] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-12 20:31:08,500] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-12 20:31:09,124] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-12 20:31:09,578] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-12 20:31:15,642] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-13 15:46:28,005] INFO: Gráfico de variabilidade com escala logarítmica salvo em figures/variabilidade_barras.png
+[2025-07-13 15:46:28,025] INFO: Iniciando geração do boxplot...
+[2025-07-13 15:46:28,025] INFO: Criptomoedas disponíveis: ['ADA', 'AVAX', 'BNB', 'BTC', 'DOGE', 'DOT', 'ETH', 'SHIB', 'SOL', 'XRP']
+[2025-07-13 15:46:28,028] INFO: Total de dados coletados para o boxplot: 22777
+[2025-07-13 15:46:28,035] INFO: DataFrame do boxplot criado com shape: (22777, 2)
+[2025-07-13 15:46:28,715] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-13 15:46:29,303] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-13 15:46:30,071] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-13 15:46:30,541] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-13 15:46:31,132] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-13 15:46:31,746] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-13 15:46:32,306] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-13 15:46:32,753] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-13 15:46:33,254] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-13 15:46:33,747] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-13 15:46:34,263] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-13 15:46:34,813] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-13 15:46:39,110] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-13 16:00:36,001] INFO: Iniciando geração do boxplot...
+[2025-07-13 16:00:36,001] INFO: Criptomoedas disponíveis: ['BTC', 'ETH']
+[2025-07-13 16:00:36,001] INFO: Total de dados coletados para o boxplot: 20
+[2025-07-13 16:00:36,002] INFO: DataFrame do boxplot criado com shape: (20, 2)
+[2025-07-13 16:00:36,574] INFO: Boxplot salvo em: /tmp/pytest-of-root/pytest-19/test_boxplot_creation0/boxplot_fechamento.png
+[2025-07-13 16:00:37,090] INFO: Histograma salvo em: /tmp/pytest-of-root/pytest-19/test_histogram_creation0/histograma_fechamento.png
+[2025-07-13 16:00:37,615] INFO: Gráfico linha salvo para TEST em: /tmp/pytest-of-root/pytest-19/test_line_graph_creation0/TEST_linha_resumo.png
+[2025-07-13 16:19:28,010] INFO: Iniciando geração do boxplot...
+[2025-07-13 16:19:28,010] INFO: Criptomoedas disponíveis: ['BTC', 'ETH']
+[2025-07-13 16:19:28,011] INFO: Total de dados coletados para o boxplot: 20
+[2025-07-13 16:19:28,011] INFO: DataFrame do boxplot criado com shape: (20, 2)
+[2025-07-13 16:19:28,493] INFO: Boxplot salvo em: /tmp/pytest-of-root/pytest-20/test_boxplot_creation0/boxplot_fechamento.png
+[2025-07-13 16:19:29,015] INFO: Histograma salvo em: /tmp/pytest-of-root/pytest-20/test_histogram_creation0/histograma_fechamento.png
+[2025-07-13 16:19:29,524] INFO: Gráfico linha salvo para TEST em: /tmp/pytest-of-root/pytest-20/test_line_graph_creation0/TEST_linha_resumo.png
+[2025-07-13 16:29:17,769] INFO: Gráfico de variabilidade com escala logarítmica salvo em figures/variabilidade_barras.png
+[2025-07-13 16:29:17,790] INFO: Iniciando geração do boxplot...
+[2025-07-13 16:29:17,790] INFO: Criptomoedas disponíveis: ['ADA', 'AVAX', 'BNB', 'BTC', 'DOGE', 'DOT', 'ETH', 'SHIB', 'SOL', 'XRP']
+[2025-07-13 16:29:17,792] INFO: Total de dados coletados para o boxplot: 22777
+[2025-07-13 16:29:17,800] INFO: DataFrame do boxplot criado com shape: (22777, 2)
+[2025-07-13 16:29:18,328] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-13 16:29:19,114] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-13 16:29:19,583] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-13 16:29:20,035] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-13 16:29:20,501] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-13 16:29:20,923] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-13 16:29:21,328] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-13 16:29:21,787] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-13 16:29:22,319] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-13 16:29:22,853] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-13 16:29:23,241] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-13 16:29:23,650] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-13 16:29:27,398] INFO: Subplots salvos em figures/linhas_resumo_todas.png
+[2025-07-13 18:57:57,297] INFO: Gráfico de variabilidade com escala logarítmica salvo em figures/variabilidade_barras.png
+[2025-07-13 18:57:57,305] INFO: Iniciando geração do boxplot...
+[2025-07-13 18:57:57,305] INFO: Criptomoedas disponíveis: ['ADA', 'AVAX', 'BNB', 'BTC', 'DOGE', 'DOT', 'ETH', 'SHIB', 'SOL', 'XRP']
+[2025-07-13 18:57:57,306] INFO: Total de dados coletados para o boxplot: 22777
+[2025-07-13 18:57:57,310] INFO: DataFrame do boxplot criado com shape: (22777, 2)
+[2025-07-13 18:57:57,521] INFO: Boxplot salvo em: figures/boxplot_fechamento.png
+[2025-07-13 18:57:57,709] INFO: Histograma salvo em: figures/histograma_fechamento.png
+[2025-07-13 18:57:57,931] INFO: Gráfico linha salvo para ADA em: figures/cryptos/ADA_linha_resumo.png
+[2025-07-13 18:57:58,110] INFO: Gráfico linha salvo para AVAX em: figures/cryptos/AVAX_linha_resumo.png
+[2025-07-13 18:57:58,293] INFO: Gráfico linha salvo para BNB em: figures/cryptos/BNB_linha_resumo.png
+[2025-07-13 18:57:58,474] INFO: Gráfico linha salvo para BTC em: figures/cryptos/BTC_linha_resumo.png
+[2025-07-13 18:57:58,651] INFO: Gráfico linha salvo para DOGE em: figures/cryptos/DOGE_linha_resumo.png
+[2025-07-13 18:57:58,824] INFO: Gráfico linha salvo para DOT em: figures/cryptos/DOT_linha_resumo.png
+[2025-07-13 18:57:59,014] INFO: Gráfico linha salvo para ETH em: figures/cryptos/ETH_linha_resumo.png
+[2025-07-13 18:57:59,191] INFO: Gráfico linha salvo para SHIB em: figures/cryptos/SHIB_linha_resumo.png
+[2025-07-13 18:57:59,370] INFO: Gráfico linha salvo para SOL em: figures/cryptos/SOL_linha_resumo.png
+[2025-07-13 18:57:59,551] INFO: Gráfico linha salvo para XRP em: figures/cryptos/XRP_linha_resumo.png
+[2025-07-13 18:58:00,807] INFO: Subplots salvos em figures/linhas_resumo_todas.png
